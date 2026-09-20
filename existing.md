@@ -8,3 +8,7 @@ Interactive views: [1877](https://gws-access.jasmin.ac.uk/public/ncas_climate/eh
 ![existing1878](existing/pressure_stations_1878.png)
 
 There are a few more stations which will be added to GLAMOD from ISPDv4.7, and some location corrections needed.
+
+For ships, maps of observation density are found [here](https://psl.noaa.gov/data/20CRv3_ISPD_obscounts_bymonth/) with one example from December 1877 below
+
+![existing1877marine](existing/get_ISPDyearMonth_image.pl_Dec1877.jpeg)
