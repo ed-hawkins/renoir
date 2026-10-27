@@ -1,0 +1,36 @@
+ID: ARGBAB2				
+Country: Argentina				
+City: Bahía Blanca				
+Period: 1860-1882				
+Resolution:  Annual				
+Observers: Felipe Caronti				
+Location Observatory: -38.74, -62.19, 15 masl				
+Meteorological variables: Mean Pressure (Column 2) (mm).				
+Data source: Davis, Gualterio G. .1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.				
+Descriptive Name: BAHIA_BLANCA_1860_1882P				
+Other comments: The barometer was aneroid until March 1873, then a mercurial one replaced it. The fifth greatest rainfalls were 8th June 1865 (117mm), 25th September 1872 (115.5mm), 22nd March 1876 (100mm), 20th July 1876 (100.8mm) and 31st March 1877 (97.5 mm).				
+				
+YEAR	B			
+1860	759,2			
+1861	759,4			
+1862	759,3			
+1863	759,3			
+1864	759,6			
+1865	756,4			
+1866	759,4			
+1867	759,4			
+1868	759,5			
+1869	759,7			
+1870	759,6			
+1871	759,7			
+1872	760,9			
+1873	760,22			
+1874	760,53			
+1875	758,6			
+1876	758,88			
+1877	758,41			
+1878	758,64			
+1879	758,41			
+1880	757,64			
+1881	757,52			
+1882	756,49			

@@ -1,0 +1,50 @@
+ID: ARGRIO1		
+Country: Argentina		
+City: La Rioja		
+Period: September 1875- October 1878		
+Resolution: Monthly		
+Observers: From May 1876 Dr. Juan Bialet y Massé		
+Location Observatory: 29.41, -66.86 (540 masl) (Colegio Nacional)		
+Meteorological variables: Precipitation (Column 3) (mm) 		
+Data source: Davis, Gualterio G. 1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.		
+Descriptive Name: LA_RIOJA_1875_1878		
+		
+YEAR	MONTH	PRECIPITATION
+1875	9	11,8
+1875	10	15,2
+1875	11	
+1875	12	
+1876	1	
+1876	2	
+1876	3	
+1876	4	
+1876	5	0,6
+1876	6	0,5
+1876	7	0
+1876	8	7,5
+1876	9	0
+1876	10	26,7
+1876	11	28,7
+1876	12	47,5
+1877	1	13,2
+1877	2	17,1
+1877	3	69
+1877	4	1,3
+1877	5	3,5
+1877	6	15,8
+1877	7	21,8
+1877	8	7,1
+1877	9	0
+1877	10	0,8
+1877	11	55,7
+1877	12	31,9
+1878	1	131
+1878	2	57
+1878	3	40,7
+1878	4	31,5
+1878	5	0
+1878	6	0
+1878	7	74
+1878	8	0
+1878	9	0
+1878	10	0

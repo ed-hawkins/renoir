@@ -1,0 +1,25 @@
+ID: ARGBUA2																					
+Country: Argentina																					
+City: Buenos Aires																					
+Period: 1805																					
+Resolution: Monthly																					
+Observers:  Antonio Cerviño																					
+Location Observatory: -34.61, -58.38 (13.32 m above La Plata river).  																					
+Meteorological variables: Maximum, minimum, mean temperature (Column 3, 4, 5) (Reaumur); Dates of maximum and minimum temperature (Column 6, 7); Maximum barometer (Column 8) (French inches) (Column 9) (french lines); Date of maximum barometer (Column 10); Minimum barometer (Column 11) (French inches) (Column 12) (French lines); Date of minimum barometer (Column 13); State of the sky: Clear (Column 14), Cloudy (Column 15), Rainfall (Column 16), thunder and lightning (Column 17); wind direction: quartile N-E, E-S, S-O, O-N (Column 18, 19, 20, 21) (days) (Spanish); dominant wind (Column 22) (Spanish).																					
+Data source: Registro estadístico del estado de buenos aires 1857, Imprenta de la tribuna, Buenos Aires, 1858.																					
+Descriptive Name: BUENOS AIRES_1805																					
+Other comments: The observations started the 18th January.  The observations were made 4 times a day (6h, 12h, 18h, 24h). The instruments were in the Cerviño’s room, the barometer and one thermometer inside and the other thermometer was outdoors oriented S-SO out of the solar radiation. An important tempest at 6th June is recorded																					
+																					
+YEAR	MONTH	T MAX	T MIN	T MEAN	DAY MAX T	DAY MIN T	B MAX P	B MAX L	DAY MAX B	B MIN P	B MIN L	DAY MIN B	CLEAR	CLOUDY	RAINFALL	THUNDER AND LIGHTNING	N-E	E-S	S-O	O-N	WIND
+1805	1	22	12	18,00	20,26,28	18,19	28	3,3	24	27	10,3	21	8	5	3	2	1	8 1/2	4 1/2		S.E.
+1805	2	24	14	18,47	14,15	17	28	3,8	5	27	10,3	15	13	5	4	1	7	17 1/2	3 1/2		E.
+1805	3	22	10	16,4	13	31	28	0,7	18,31	27	9	8,14,28	12	19	10	5	10	17 1/2	3 1/2		E.
+1805	4	19	9	14,47	21	27	22	4	8	27	10	23	9	21	5	2	14	10    	4 1/2	1 1/2	N.
+1805	5	17	6	12,2	11,12	17	28	5,7	22	27	7,1	13	10	21	7	0	14	4 1/2	11 1/2	1	N.
+1805	6	15	4	10,34	19,23	11	28	2,9	28	27	5,7	6	13	17	10	3	11 1/2	8    	6    	4    	N.
+1805	7	16	4	10,77	27	11,19	28	6,4	19	27	7,7	23	8	23	10	1	13	1    	7    		N.
+1805	8	13	6	9,45	1,10,23,25	3,4,13,20,21,26,30	28	4,9	14	27	7,5	25	12	12	7	0	11 1/2	5 1/2	11    	3    	N. y S.O.
+1805	9	15	6	10,98	23	26	28	5,9	8	27	9,6	16	10	20	9	3	12 1/2	12 1/2	4    	1    	N.
+1805	10	20	10	14,21	13	,11,30,31	28	3,5	6,31	27	7,9	13	7	24	13	3	11    	17    	3    		E.
+1805	11	21	12	17,81	23,24,28,29,30	1,5,16	28	4,1	1	27	8,1	10	2	28	9	2	6 1/2	17    	5 1/2	1    	E.
+1805	12	24	12	17,42	8	25	28	3,2	16	27	6,8	2	12	19	10	2	9 1/2	12    	7    	2 1/2	S.E. y S.O.

@@ -1,0 +1,42 @@
+ID: ECUQUI6								
+Country: Ecuador								
+City: Quito								
+Period: 1878-1881								
+Resolution: Monthly								
+Observers: Unknown								
+Location Observatory: -0.21, -78.50								
+Meteorological variables: Mean temperature (maximum plus minimum divided by two) (Column 3); mean temperature (mean of the tree daily observations) (Column 4); precipitation (Column 5) (m); rainfall (Column 6); storm (Column 7).								
+Data source:  Stubel A. 1897. Die Vulkanberge Von Ecuador geologish-topographisch aufgenomnen und beschrieben. Verlag Von A, Asher CO., Berlin.								
+Descriptive Name: QUITO_1878_1881								
+								
+YEAR	MONTH	T MEAN1	T MEAN2	PRECIPIATATION	RAINFALL	STORMS		
+1878	10	14,03	13,88	0,1356	11	8		
+1878	11	13,86	13,65	0,0823	5	5		
+1878	12	13,44	13,28	0,0538	6	5		
+1879	1	13,19	12,95	0,0943	18	10		
+1879	2	13,6	13,89	0,0668	8	8		
+1879	3	12,83	12,86	0,063	17	14		
+1879	4	12,84	12,92	0,1945	28	21		
+1879	5	14,13	13,46	0,1312	19	18		
+1879	6	13,79	12,68	0,063	11	11		
+1879	7	13,02	12,46	0,0328	7	4		
+1879	8	13,91	13,18	0,046	8	3		
+1879	9	13,74	13,05	0,047	9	4		
+1879	10	13,47	12,65	0,0881	18	16		
+1879	11	13,8	13,23	0,1349	17	9		
+1879	12	14,19	13,44	0,0859	16	7		
+1880	1	15,1	14,37	0,0694	11	8		
+1880	2	13,74	14,14	0,1195	17	5		
+1880	3	13,94	13,9	0,1512	23	14		
+1880	4	14	13,41	0,1138	22	17		
+1880	5	14,55	13,71	0,0975	22	12		
+1880	6	14,46	13,82	0,0198	9	3		
+1880	7	14,57	13,54	0,0066	5	3		
+1880	8	13,2	13,03	0,0853	14	10		
+1880	9	13,79	13,22	0,0478	10	4		
+1880	10	13,18	12,79	0,0878	19	16		
+1880	11	13,61	13,42	0,0666	10	8		
+1880	12	13,43	13,28	0,0984	21	14		
+1881	1	13,38	13,4	0,0698	12	7		
+1881	2	12,61	13,08	0,0648	14	10		
+1881	3	13,47	13,66	0,1075	11	3		

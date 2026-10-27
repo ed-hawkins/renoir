@@ -1,0 +1,36 @@
+ID: CHIVAL1		
+Country: Chile		
+City: Valparaiso		
+Period: July 1837- Jun 1839		
+Resolution: Monthly		
+Observers:  Unknown		
+Location Observatory:  -33.04, -71.62		
+Meteorological variables:  Mean temperature  (Column 3) (Fahrenheit)		
+Data source:  Dove 1859. Über die nicht periodischen Veranderungen der Temperatur-Vertheilung auf der Oberfläche der Erde. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1858. 113-428.		
+Descriptive Name: VALPARAISO_1837_1839		
+		
+YEAR	MONTH	T MEAN
+1837	7	58,8
+1837	8	61,7
+1837	9	62,7
+1837	10	63,5
+1837	11	68,6
+1837	12	71,4
+1838	1	69,4
+1838	2	68,8
+1838	3	68,5
+1838	4	67,9
+1838	5	63,1
+1838	6	61,7
+1838	7	61,2
+1838	8	62,3
+1838	9	65,9
+1838	10	66,8
+1838	11	68,8
+1838	12	71,1
+1839	1	71,3
+1839	2	72
+1839	3	69,7
+1839	4	65,7
+1839	5	62,9
+1839	6	59,3

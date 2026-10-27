@@ -1,0 +1,25 @@
+ID: ECURIO1			
+Country: Ecuador			
+City: RIOBAMBA			
+Period: 1872			
+Resolution: Daily			
+Observers: Alphons Stubel (1835-1904). He travel around Ecuador with Wilhelm Reiss, he was very interested in volcanoes (geology and topography) and make expeditions to study most of them. Stubel studied chemistry and mineralogy at Leipzig University. 			
+Location Observatory:  -1.67, -78.65			
+Meteorological variables: Minimum and maximum daily temperature (Column 3, 4) (Celsius), the exact date of the observations are unknown only the month is identified.			
+Data source:  Stubel A. 1897. Die Vulkanberge Von Ecuador geologish-topographisch aufgenomnen und beschrieben. Verlag Von A, Asher CO., Berlin.			
+Descriptive Name: RIOBAMBA_1872			
+			
+YEAR	MONTH	T MIN	T MAX
+1872	5	4	23
+1872	5	9,8	23,5
+1872	5	8	18,6
+1872	5	8,2	19,5
+1872	5	9,2	14,5
+1872	5	9,2	16,8
+1872	5	8,3	17,5
+1872	5	9,2	
+1872	5	6,1	
+1872	8	0,3	21
+1872	8	3,3	21,2
+1872	8	8,6	17,6
+1872	8	8,2	

@@ -1,0 +1,29 @@
+ID: CHIPAR4		
+Country: Chile		
+City: Punta Arenas		
+Period: March 1855- June 1856		
+Resolution: Monthly		
+Observers: Unknown		
+Location Observatory: -53.16, -70.91		
+Meteorological variables: Mean temperature (Column 3) (Celsius)		
+Data source:  Dove 1859. Über die nicht periodischen Veranderungen der Temperatur-Vertheilung auf der Oberfläche der Erde. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1858. 113-428.		
+Descriptive Name: PUNTA_ARENAS_1855_1856		
+Other comments: The instruments were hanged in the shade oriented to the south, in the wall of a room where never lit fire. The thermometer is 1,5m above the ground and 10m above the sea level, exposed to the air circulation, but shield of the sun and atmospheric waters.		
+		
+YEAR	MONTH	T MEAN
+1855	3	9,18
+1855	4	7,1
+1855	5	5,83
+1855	6	1,57
+1855	7	1,91
+1855	8	3,24
+1855	9	6,64
+1855	10	9,35
+1855	11	11,58
+1855	12	11,75
+1856	1	11,38
+1856	2	12,39
+1856	3	8,8
+1856	4	5,38
+1856	5	4,61
+1856	6	1,39

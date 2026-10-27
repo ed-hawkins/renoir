@@ -1,0 +1,24 @@
+ID: CHIVLD 2															
+Country: Chile															
+City: Valdivia															
+Period: April 1851- March 1852															
+Resolution: Month															
+Observers: Mr. Carlos Anwandter (1 April 1801 Luckenwalde, 10 July 1889 Valdivia) a pharmacist that emigrates to Chile at 1850. The observatory was in his house as well as the first brewery in Valdivia founded by him (Bernedo Pinto, 1999). Bernedo Pinto P. 1999. Los industriales alemanes de Valdivia 1850-1914. Historia 32, 5-42. 															
+Location Observatory: -39.81, -73.24															
+Meteorological variables: Mean, minimum and maximum temperature  (Column 3, 4, 5) (Reaumur); days of rainfall (Column 6), clear (Column 7), cloudy (Column 8); wind direction E, SE, S, SW, W, NW, N, NE (Column 9, 10, 11, 12, 13, 14, 15, 16)														
+Data source: Memoria sobre el clima de Valdivia- comunicado a la Facultad de Ciencias por el Dr. Philippi. Anales de la Universidad de Chile 1852(1), 283-288															
+Descriptive Name: Valdivia_1851_1852															
+															
+YEAR	MONTH	T MEAN	T MIN	T MAX	RAINFALL	CLEAR	CLOUDY	E	SE	S	SW	W	NW	N	NE
+1851	4	5,83	1	16,5	13	17	3	7,5	6,5	2,5	1	3,5	0	0,5	8,5
+1851	5	7,23	4	17	11	17	6	2,5	5,5	2	4	9,5	4	0,5	3
+1851	6	7,98	4,5	25,5	9	12	9	0	1,5	0,5	8,5	14,5	1,5	3	0,5
+1851	7	11,31	4	25,5	12	14	5	0	3	1	8	15	3,5	0	0,5
+1851	8	13,1	5	28,5	7	20	9	3	8,5	0	2,5	16	0,5	0	0,5
+1851	9	12,8	6	24	9	17	3	1	4,5	0	2,5	17,5	1	0	2,5
+1851	10	10,3	2	20,5	15	10	6	2	7	0	4	17	1	0	3
+1851	11	8,7	4	17	10	8	12	0	7	4,5	4,5	5	7	2	0
+1851	12	8,3	4	14	16	8	7	3	2,5	0,5	3,5	5,5	7	2,5	6
+1852	1	7,5	2,5	12	14	8	8	2,5	3	1	5,5	6,5	0	1	10,5
+1852	2	5,1	1	11	21	5	5	6	2,5	0	2,5	6,5	1	2	9,5
+1852	3	7,2	2,5	13,5	19	10	2	6	1	1	1,5	0,5	4,5	2	14,5

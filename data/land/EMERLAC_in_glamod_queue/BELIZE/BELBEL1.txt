@@ -1,0 +1,53 @@
+ID: BELBEL1	
+Country: Belize	
+City: Belize	
+Period: 1848-1888 (gaps 1849-1862, 1870-1877, 1884)	
+Resolution: Annual	
+Observers: Unknown	
+Location Observatory: 17.49, -88.20 (sea level)	
+Meteorological variables: Precipitation (Column 3) (English inch)	
+Data source: Harrington M. W. 1900. Central America Rainfall. Bulletin of the Philosophical Society of Washington (1895-1899) 13: 1-30	
+Descriptive Name: BELIZE_1848_1888 	
+	
+YEAR	PRECIPITATION
+1848	47,2
+1849	
+1850	
+1851	
+1852	
+1853	
+1854	
+1855	
+1856	
+1857	
+1858	
+1859	
+1860	
+1861	
+1862	
+1863	53,2
+1864	78,8
+1865	75,3
+1866	67,9
+1867	88,9
+1868	59,8
+1869	86,3
+1870	
+1871	
+1872	
+1873	
+1874	
+1875	
+1876	
+1877	
+1878	105,3
+1879	91,3
+1880	77,6
+1881	91,3
+1882	63
+1883	79,4
+1884	
+1885	89
+1886	69,3
+1887	100,2
+1888	72,2

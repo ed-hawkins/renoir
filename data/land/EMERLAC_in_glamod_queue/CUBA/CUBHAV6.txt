@@ -1,0 +1,43 @@
+ID: CUBHAV6				
+Country: Cuba				
+City: Havana				
+Period: August 1854				
+Resolution: Daily				
+Observers: Esteban Pichardo				
+Location Observatory: 23.13, -82.35 (Damas street).				
+Meteorological variables:  Temperature between 12h and 13h  (Column 4) (Celsius); State of the sky (Column 5) (Spanish).				
+Data source: Pichardo, E., 1854, Geografía de la Isla de Cuba,  Establecimiento Tipográfico de D. M. Molder, La Habana.				
+Descriptive Name: Havana 1854				
+				
+año	mes	dia	T ºC	Estado cielo
+1854	8	1	30,5	
+1854	8	2	30,66	
+1854	8	3	31	
+1854	8	4	31	
+1854	8	5	31	
+1854	8	6	28	Lluvia, trueno
+1854	8	7	30	Nublado
+1854	8	8	31	
+1854	8	9	30,5	
+1854	8	10	30,5	
+1854	8	11	31	
+1854	8	12	30	
+1854	8	13	30	
+1854	8	14	30	
+1854	8	15	30,25	
+1854	8	16	30	
+1854	8	17	30,25	
+1854	8	18	30,25	
+1854	8	19	30,25	Lluvioso, poco
+1854	8	20	30,3	
+1854	8	21	29	Nublado, poco
+1854	8	22	30	
+1854	8	23	30,25	
+1854	8	24	28,5	Anort
+1854	8	25	30	Nublado por la tarde
+1854	8	26	29,5	
+1854	8	27	28,5	Anort
+1854	8	28	28	
+1854	8	29	28	Nublado
+1854	8	30	29	
+1854	8	31	29,5	Nublado

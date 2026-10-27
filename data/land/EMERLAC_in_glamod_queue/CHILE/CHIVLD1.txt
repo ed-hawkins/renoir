@@ -1,0 +1,53 @@
+ID: CHIVLD1			
+Country: Chile			
+City: Valdivia			
+Period: September 1851- December 1854			
+Resolution: Monthly			
+Observers: Sr. Carlos Anwandter (1 April 1801 Luckenwalde, 10 July 1889 Valdivia) a pharmacist that emigrates to Chile at 1850. The observatory was in his house as well as the first brewery in Valdivia founded by him (Bernedo Pinto, 1999)/  Bernedo Pinto P. 1999. Los industriales alemanes de Valdivia 1850-1914. Historia 32, 5-42. 			
+Location Observatory: -39.81, -73.24			
+Meteorological variables: Mean Temperature series 1 (Column 3) (Reaumur); mean temperature series 2 (Column 4) (Reaumur).			
+Data source: Dove 1859. Über die nicht periodischen Veranderungen der Temperatur-Vertheilung auf der Oberfläche der Erde. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1858. 113-428. 			
+Descriptive Name: VALDIVIA_1851_1854			
+Other comments: He had a thermometer divided in 80º in Reaumur scale. The instrument was suspended 20 foot above the sea level.			
+			
+YEAR	MONTH	T MEAN	T MEAN 2
+1851	9		5,83
+1851	10		7,23
+1851	11		7,98
+1851	12		11,31
+1852	1	14,2	13,1
+1852	2	13,8	12,8
+1852	3	11,4	10,3
+1852	4	9,7	8,7
+1852	5	8,4	8,3
+1852	6	5,9	7,5
+1852	7	5,3	5,1
+1852	8	6,9	7,2
+1852	9	7,5	
+1852	10	9,8	
+1852	11	9,7	
+1852	12	12,3	
+1853	1	14,66	
+1853	2	12,84	
+1853	3	12,94	
+1853	4	9,9	
+1853	5	8,87	
+1853	6	7,96	
+1853	7	6,04	
+1853	8	6,47	
+1853	9	8,21	
+1853	10	10,03	
+1853	11	11,04	
+1853	12	12,97	
+1854	1	13,2	
+1854	2	13,57	
+1854	3	11,91	
+1854	4	8,98	
+1854	5	7,59	
+1854	6	8,22	
+1854	7	7,08	
+1854	8	6,22	
+1854	9	7,33	
+1854	10	9,04	
+1854	11	10,37	
+1854	12	13,86	

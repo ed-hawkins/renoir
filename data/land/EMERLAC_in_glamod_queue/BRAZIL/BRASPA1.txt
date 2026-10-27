@@ -1,0 +1,132 @@
+ID: BRASPA1															
+Country: Brazil															
+City: São Paulo															
+Period:  October - November 1788															
+Resolution: Daily															
+Observers:  Bento Sanches Dorta															
+Location Observatory: -22,91, -43,17															
+"Meteorological variables: Temperature at 6h, 18h (Columns  4, 5) (Fahrenheit); barometer at 6h, 18h in Paris inches (Columns  6, 8) and lines (Columns 7,9), morning and afternoon Humidity (Columns 10, 11) ; evaporation and rainfall in Paris Inch and lines (column 12, 13); morning and afternoon wind direction  (column 14, 15); State of the sky (column 16)
+Data source: Sanches Dorta B (1812) Diario Physico-meteorologico de Outubro do anno de 1788 da Cidade de S. Paulo na America Meridional e Oriental. Memorias de Mathematica e Phisica da Academia Real das Sciencias de Lisboa, 3:183-187. 				
+Sanches Dorta B (1812) Diario Physico-meteorologico de Novembro do anno de 1788 da Cidade de S. Paulo na America Meridional e Oriental. Memorias de Mathematica e Phisica da Academia Real das Sciencias de Lisboa, 3:188-192.					
+Sanches Dorta B (1812) Diario Physico-meteorologico de Dezembro do anno de 1788 da Cidade de S. Paulo na America Meridional e Oriental. Memorias de Mathematica e Phisica da Academia Real das Sciencias de Lisboa, 3:193-197.															
+Descriptive Name: SAN_PAULO_1788															
+Other comments:  See Farrona et al (2012) for details.															
+															
+Year	Month	Day	T 6h	T 18h	B 6h Inc	B 6h Iin	B 18h Inc	B 18h Iin	H  Mor	H Aft	E	R	W Mor	W aft	SS
+1788	10	1	68	66	25	10,13	25	10,25	-6	-11,5			var	s	var nev 
+1788	10	2	65	67,5	25	10,57	25	10,05	-11	10,37			var	se	var nev e relamp.
+1788	10	3	66,33	73,25	25	10,13	25	9,07	1,33	1			var	ne	var
+1788	10	4	68,67	71,5	25	9,43	25	9,02	9,33	8,5			var	no	"cob;nev m. N. Chuva"
+1788	10	5	70,67	79,5	25	8,9	25	8,12	12,67	-25,75			var	no	nuv. Nev m. Trov de n.
+1788	10	6	70,67	72	25	8,9	25	8,7	-7	-5,5			var	no	"cob;nev m. N. Chuva"
+1788	10	7	70,33	75,87	25	9,5	25	8,8	1,32	-23			se	no	cob.de n. Trovoes
+1788	10	8	71,5	68,5	25	9,27	25	9,78	-3,67	4			no	v	nuv
+1788	10	9	63,33	64,25	25	10,4	25	9,75	15,33	15,25			se	so	cob.td o dia chuva.houve um arco-iris de um cor avermelhada dps de o sol estar 6' debaixo do horizonte:durou 4'
+1788	10	10	68	72,75	25	9,3	25	9,55	8,67	-26,75			no	se	cob e chuv
+1788	10	11	66,83	65,37	25	10	25	10,2	3,33	18,25			se	v	o mm
+1788	10	12	57,17	60	25	10,93	25	10,5	17,67	15,25			se	s	nuv
+1788	10	13	53,17	56,75	25	11	25	10,9	11	0,5	2	0	var	se	nuv.nev de m.
+1788	10	14	51,33	61	25	11,03	25	10,52	0,33	34,25	2	0	ne	se	"var;de tarde chuva e de n. Trov"
+1788	10	15	58,67	64	25	10,27	25	9,27	54	20,5	1	0	var	se	cob
+1788	10	16	62	65,25	25	9,6	25	9,17	24,67	36,25	0	3	var	ne	cob e chuva
+1788	10	17	64,83	66,5	25	9,63	25	9,4	36	39	0	3,5	no	no	nuv. Pela m. Nev e de n. Trov e chuva
+1788	10	18	65,33	71,75	25	9,97	25	9,57	36,33	19,25	2	0	var	var	var. nev de m. Orv
+1788	10	19	67,67	71,25	25	9,63	25	10,12	26,33	6	3,5	0	var	s	cob.de t. Trovo e chuva
+1788	10	20	67	66,25	25	9,97	25	10,65	15,33	12,5	2	0	var	var	nu.de n. Relamp
+1788	10	21	65,67	70,75	25	9,93	25	9,2	4,67	-11,25	3	0	l	se	cob.de t. Trov e chuva
+1788	10	22	69,67	67	25	10,7	25	8,15	7,67	20	0	6	var	se	var. de m. Chuva
+1788	10	23	63,33	62,75	25	10,67	25	10,45	23,67	17	3	0	se	se	var
+1788	10	24	63	63	25	8,43	25	10,78	18	15	2	0	var	no	var. de n.trovoes e chuva
+1788	10	25	63	65	25	9,73	25	9,3	12,67	20	0	5,5	var	se	o mm
+1788	10	26	66	70,5	25	11,17	25	7,45	24,33	6	1,5	0	var	se	var.m.orv
+1788	10	27	62,67	65	25	10,37	25	9,12	-2,67	-10,75	2	0	var	se	var. de n. Orv
+1788	10	28	61,33	60	25	8,23	25	10	-5,5	12	1	0	var	se	nuv. De n. Relamp
+1788	10	29	58,67	64,25	25	8,8	25	10,02	3	-6,75	1,5	0	var	se	vat.de t. Trov e chuva
+1788	10	30	62,5	72,5	25	10,6	25	9,78	8	-15,75	2	0	ne	s	var
+1788	10	31	66	68,75	25	9,57	25	9,1	9	23,5	0	5,5	ne	s	o mm
+1788	11	1	68,33	69,25	25	8,67	25	7,77	34	32	8	0	var	var	cob e chuva
+1788	11	2	68,67	97,75	25	6,7	25	6,7	29,67	27,75	3	0	no	se	nuv e chuva
+1788	11	3	64	69,25	25	7,4	25	7,17	22,33	-15	0	4	ne	no	nuv. Pela m.nev
+1788	11	4	63,33	68	25	8,5	25	9,15	-20	5	0	3,5	var	se	car. Pela m. Nev
+1788	11	5	56,67	69,5	25	10,2	25	10,6	21,67	-11,75	0	4	var	se	claro
+1788	11	6	60,5	70	25	10	25	10,2	18	10	0	3	var	se	o mm
+1788	11	7	59	68	25	11,93	25	11,67	24,33	17,25	0	3,25	var	se	o mm
+1788	11	8	60,33	70,75	25	11,7	25	11,45	29	-7,5	0	4	var	se	o mm
+1788	11	9	61,33	72,75	25	11,93	25	11,3	29,33	-5,75	0	3,5	var	s	"var; de t. Trovoes e chuva"
+1788	11	10	64,33	71,37	25	11,13	25	10,37	30,33	-7	0	3	l	se	nuv e igual ao dia anterior
+1788	11	11	64,33	75,25	25	10,2	25	9,4	22	-14,25	2	2	l	var	nuv. De tarde trovoada
+1788	11	12	70	70,25	25	9,63	25	9	22,33	-7,5	0	4	var	se	var
+1788	11	13	69,33	75,25	25	9,57	25	9,4	23	58	3	0	var	so	cob e chuva
+1788	11	14	70,33	74,5	25	9,47	25	8,55	9,33	-17,75	0	4,5	se	o	o mm
+1788	11	15	72,33	68,5	25	8,8	25	7,88	-6,67	38,5	6	0	ne	no	var e chuva
+1788	11	16	66,5	70,5	25	8,08	25	7,98	17,67	33,25	11	0	no	no	nuv e chuva
+1788	11	17	66,67	73	25	8,3	25	7,82	33,33	17,25	7	0	no	var	var e chuva
+1788	11	18	69,83	63,75	25	8,33	25	7,87	33,33	48	5	0	no	no	var.trov e chuva.1 arco-iris
+1788	11	19	82,33	65,75	25	8,23	25	8,97	28,67	42,75	6	0	var	var	o mm.2 arco-iris concentricos
+1788	11	20	68,33	70	25	8,97	25	8,67	32,33	29,25	10	0	no	se	cob e chuva
+1788	11	21	65	64	25	9,4	25	8,55	33,67	36	1	0	se	s	o mm
+1788	11	22	66	68,25	25	8,9	25	8,38	38	31,5	0	2	var	se	nuv
+1788	11	23	68	69	25	9,3	25	7,35	39,33	53,25	2,5	0	ne	o	cob. Pela manha nev. De tarde trovoes
+1788	11	24	64	68,25	25	9,3	25	7,82	30,33	55,5	0	2	var	se	cob 
+1788	11	25	67,33	70,5	25	7,97	25	8,47	40,33	42,75	10	0	l	n	cob e chuva
+1788	11	26	66	78,25	25	8,3	25	8,55	55,33	-20,5	2,5	0	ne	s	o mm
+1788	11	27	68,67	76,62	25	8,23	25	8,6	49	-19	0	1,5	so	n	var e orv de m.
+1788	11	28	69	75,75	25	8,73	25	8,47	42	-23	0	5	var	no	nuv.de n. Relamp
+1788	11	29	69,67	76	25	9,23	25	7,8	15,33	9,5	3	3,5	var	no	nuv . De n. Trovoes e chuva
+1788	11	30	71	77	25	8,63	25	8,6	31,67	9	7	0	n	se	var. trovoada e chuva
+1788	12	1	76,415	82,69	25	9,85	25	9,675	17,34	13,51	1	2,75	var	se	claro
+1788	12	2	78,08	81,375	25	9,62	25	8,91	16,96	12,93	5,00	0	var	s	nuv e igual ao dia anterior
+1788	12	3	77,085	79,5	25	8,4	25	7,885	16,44	12,16	2	0	ne	var	o mm
+1788	12	4	75,835	77,75	25	8,4	25	8,095	16,55	12,32	0	3,5	no	se	nuv e chuva
+1788	12	5	73,835	76,875	25	8,7	25	8,635	16,82	12,73	0	3,5	var	no	var.trov e chuva.1 arco-iris
+1788	12	6	73,085	79,185	25	9,55	25	9,65	17,33	13,49	1	2	var	se	o mm
+1788	12	7	76,1	82,095	25	9,75	25	9,5	17,25	13,38	1,75	1,5	var	se	cob e chuva
+1788	12	8	80	85,875	25	10,6	25	10,725	17,86	14,29	1	1,625	l	se	var. trovoada e chuva
+1788	12	9	77,085	81,375	25	11,05	25	10,6	17,80	14,20	1,5	2	se	se	o mm
+1788	12	10	76,915	80,63	25	10,6	25	10,425	17,71	14,07	0	4,75	ne	se	nuv e chuva
+1788	12	11	77,5	78,625	25	10,5	25	10,285	17,64	13,96	1,5	1,5	no	s	car. Pela m. Nev
+1788	12	12	76,835	78,5	25	10,5	25	9,95	17,48	13,71	2	1	no	se	nuv e igual ao dia anterior
+1788	12	13	73	71,125	25	10,3	25	9,95	17,48	13,71	0	4,75	var	var	cob e chuva
+1788	12	14	74,665	74,5	25	10,3	25	9,96	17,48	13,72	2,25	0	se	se	var.trov e chuva.1 arco-iris
+1788	12	15	74,08	75,5	25	9,87	25	8,91	16,96	12,93	1	2,25	var	so	o mm
+1788	12	16	70,375	79,685	25	9,2	25	8,525	16,76	12,64	3,5	0	ne	o	cob e chuva
+1788	12	17	74,835	77,685	25	8,8	25	8,69	16,85	12,77	6,25	0	se	no	o mm
+1788	12	18	72,585	77,185	25	9,1	25	8,695	16,85	12,77	4,5	0	ne	no	nuv . De n. Trovoes e chuva
+1788	12	19	70,865	77,31	25	8,98	25	8,995	17,00	13,00	2,5	2,75	no	var	claro
+1788	12	20	73,335	79,375	25	9,1	25	9,81	17,41	13,61	7	0	no	no	o mm
+1788	12	21	74,665	79,31	25	9,45	25	8,935	16,97	12,95	6,5	0	var	var	var.trov e chuva.1 arco-iris
+1788	12	22	74,83	82,375	25	10,05	25	8,35	16,68	12,51	0,5	2	se	se	o mm
+1788	12	23	75,5	79,5	25	9,7	25	9,415	17,21	13,31	0	2,75	var	s	nuv e chuva
+1788	12	24	77,665	78,75	25	8,8	25	9,065	17,03	13,05	1,25	2	l	se	nuv e igual ao dia anterior
+1788	12	25	76,335	82,29	25	9,5	25	9,2	17,10	13,15	0	2,5	so	o	var.trov e chuva.1 arco-iris
+1788	12	26	76,83	80,56	25	9,57	25	7,96	16,48	12,22	5	1,625	var	se	nuv . De n. Trovoes e chuva
+1788	12	27	79,165	82,375	25	9,3	25	8,835	16,92	12,88	1,25	2	n	n	o mm
+1788	12	28	77,5	84,375	25	8,23	25	9,3	17,15	13,23	0	2,5	var	s	"var; de t. Trovoes e chuva"
+1788	12	29	78,835	79,125	25	8,7	25	9,245	17,12	13,18	0	4	no	n	nuv. De tarde trovoada
+1788	12	30	79,83	80,935	25	9,95	25	8,79	16,90	12,84	2,5	2,75	ne	no	cob e chuva
+1788	12	31	74,835	80,375	25	9,1	25	8,85	16,93	12,89	3,5	2	l	no	nuv . De n. Trovoes e chuva
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															

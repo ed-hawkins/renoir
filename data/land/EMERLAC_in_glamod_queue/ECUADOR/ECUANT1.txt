@@ -1,0 +1,27 @@
+ID: ECUANT1 									
+Country: Ecuador									
+City:  Antisana Volcano									
+Period: Dec 1845 - Dec 1846									
+Resolution:  Monthly									
+Observers: Dr Carlos Aguirre Montúfar									
+"Location Observatory:  -0,52, -78,22The instruments were situated in
+a camp located at 4060 mamsl"									
+"Meteorological variables: Monthly mean temperature (Celsius)  (column 3); pressure (in mmHg) (column 4); monthly amount of rainfall (in cm) (column 5); solar declination (column 6)"									
+Data source: Aguirre C (1851a) Rapport sur les observations météorologiques faites à l'Antisana, par M. Carlos Aguirre [Summary of the meteorological observations done at Antisana by M. Carlos Aguirre]. Comptes rendus de l'Académie des Sciences [Proceedings of the Academy of Sciences]32: 741-755. (In French) Aguirre C (1851b) Observaciones meteorológicas hechas en Antisana, por D. C. Aguirre [Meteorological observations done at Antisana by D.C. Aguirre]. Revista de los Progresos de las Ciencias Exactas, Físicas y Naturales [Journal of the Exact, Physical and Natural Sciences] 2: 526-532. (In Spanish)									
+Descriptive Name:Antisana_1845_1846									
+Other comments: See more details in Farrona et al. (2016)/ Farrona A.M.M., Domínguez-Castro, F., Gallego, M.C., Vaquero, J.M., 2016. The first meteorological observations at a tropical high elevation site: Antisana, 1846. Journal of Mountain Science 136(6), 1047-1055									
+									
+MONTH	YEAR	T	P	R	SD				
+12	1845	6,44	471,37	7,5	23S				
+1	1846	6,17	471,35	14,1	21				
+2	1846	5,06	471,51	9,7	13				
+3	1846	5,55	471,78	12,7	2				
+4	1846	5,89	471,71	20,9	9N				
+5	1846	5,51	472,41	23,2	18				
+6	1846	5,49	472,5	27,2	23				
+7	1846	2,95	472,42	27,8	21,5				
+8	1846	3	472,11	39,2	14				
+9	1846	4,04	471,6		3				
+10	1846	5,01	471,6		8,5 S				
+11	1846	5,53	471,38		18				
+12	1846	5,14	471,31		23				

@@ -1,0 +1,20 @@
+ID: BRABAH2					
+Country: Brazil					
+City: Bahia					
+Period: January to July 1846					
+Resolution: Monthly					
+Observers:  J. J. Rodrigues, a doctor who published several paper in the journal Archivo Médico Brasileiro, most of them related to medicine.					
+Location Observatory: -12.96, -38.50					
+Meteorological variables: Maximum, minimum temperature in Celsius (Columns 3, 4) and Reaumur (Columns 5, 6).					
+Data source: Archivo Médico Brasileiro 1844-1847					
+Descriptive Name:  BAHIA_1846m					
+Other comments: The observer chose this area of the city because it was far from the city centre, and nothing could block the wind and the solar radiation.  					
+					
+YEAR	MONTH	T MAX C	T MAX C	T MIN R	T MIN R
+1846	1	32	28	25,5	22
+1846	2	31	27	26	21
+1846	3	31	28	25,5	22
+1846	4	30,5	25,5	24,5	21,5
+1846	5	30	26	24	21
+1846	6	29	29	23	20,5
+1846	7	28	23	22	18

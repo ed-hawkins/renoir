@@ -1,0 +1,17 @@
+ID: PANNAO1	
+Country: Panama	
+City: Naos	
+Period: 1882-1886	
+Resolution: Annual	
+Observers: Unknown	
+Location Observatory: 8.91, -79.53 (46 English feet)	
+Meteorological variables: Precipitation (Column 3) (English inch)	
+Data source: Harrington M. W. 1900. Central  America Rainfall. Bulletin of the Philosophical Society of Washington (1895-1899) 13: 1-30	
+Descriptive Name: GAMBOA_1882_1886 	
+	
+YEAR	PRECIPITATION
+1882	29,5
+1883	37,2
+1884	41,8
+1885	42,6
+1886	69,9

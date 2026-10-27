@@ -1,0 +1,16 @@
+ID: PANTAB1	
+Country: Panama	
+City: Taboga Island	
+Period: 1861-1864	
+Resolution: Annual	
+Observers: Unknown	
+Location Observatory: 8.79, -79.55 (sea level)	
+Meteorological variables: Precipitation (Column 3) (English inch)	
+Data source: Harrington M. W. 1900. Central America Rainfall. Bulletin of the Philosophical Society of Washington (1895-1899) 13: 1-30	
+Descriptive Name: TABOGA_1861_1864	
+	
+YEAR	PRECIPITATION
+1861	71,9
+1862	48,5
+1863	45,2
+1864	30,2

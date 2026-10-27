@@ -1,0 +1,381 @@
+ID: BRARIO6									
+Country: Brazil									
+City: Rio de Janeiro									
+Period: 1ST January 1844 – 31 August 1844									
+Resolution:  Daily									
+Observers: Pedro Alcântara Bellegarde was a doctor of Mathematics.									
+Location Observatory: -22.9, -43.18 (the Court´s town, probably in the Imperial
+Observatory of Rio the Janeiro)"									
+Meteorological variables: Maximum and minimum temperature in Fahrenheit (Columns 4, 5); maximum (Columns 6, 7) and minimum (Columns 8, 9)pressure in French inches and lines; state of the sky (column 10)"									
+Data source: Minerva Brasiliense									
+Descriptive Name: RIO DE JANEIRO_1844									
+Other comments:  the observer explained that he used to take max temperature at 2 p.m., min temperature in the dawn, max pressure at 10 a.m. and min pressure at 4 p.m. He used a max/ min thermometer and a barometer compared
+with a French one that was verified in the Paris observatory "									
+									
+YEAR	MONTH	DAY	T MAX	T MIN	B MAX INC	B MAX LIN	B MIN INC	B MIN LIN	SS
+1844	1	1	81	76	30	13	30	10	Tempo claro
+1844	1	2	81	77	30	13	30	11	Tempo claro
+1844	1	3	81	77	30	12	30	6	Tempo claro
+1844	1	4	81	77	30	8	29	98	"Manhá clara e tarde trovada e chuva; noite clara"
+1844	1	5	83	78	30	3	29	93	"Manha clara e tarde idem;noite chuva e trovada"
+1844	1	6	84	80	30	8	30	3	Tempo claro
+1844	1	7	85	81	30	13	30	5	Tempo claro
+1844	1	8	85	81	30	18	30	11	Tempo claro
+1844	1	9	85	81	30	17	30	10	Tempo claro
+1844	1	10	86	81	30	13	30	1	Tempo claro
+1844	1	11	87	82	30	5	29	94	Tempo claro
+1844	1	12	88	83	30	7	29	96	"Manha clara; tarde vento e chuva; noite trovada"
+1844	1	13	84	82	30	13	30	10	"Manha cedo  chuva, depois nublado; noite chuva"
+1844	1	14	81	79	30	13	30	1	Tempo nublado
+1844	1	15	83	78	30	7	29	95	"Manha cedo chuva, depois claro; tarde chuva e trovoada; noite muita chuva"
+1844	1	16	82	79	30	5	29	99	Tempo claro
+1844	1	17	80	79	30	11	30	5	Manha vento forte, depois nubldo
+1844	1	18	82	78	30	9	30	2	Tempo claro
+1844	1	19	83	79	30	14	30	9	Tempo claro
+1844	1	20	85	80	30	13	30	6	Tempo claro
+1844	1	21	87	82	30	14	30	3	"Manha clara; tarde vento; noite escura e trovoada"
+1844	1	22	86	83	30	18	30	8	"Manha e tarde clara; noite chuva"
+1844	1	23	85	82	30	15	30	10	"Manha clara; tarde chuvisco; noite escura"
+1844	1	24	83	80	30	14	30	8	"Manha cedo chuva; depois clara; tarde e noite nublada"
+1844	1	25	83	80	30	13	29	99	Manha nublada e depois claro
+1844	1	26	84	79	30	2	29	91	Tempo claro
+1844	1	27	84	82	30	5	29	98	Tempo claro
+1844	1	28	86	82	30	2	29	90	"Manha clara; tarde idem sim viração; noite escura"
+1844	1	29	88	84	30	2	29	92	"Manha clara; tarde nublada e vento forte NO; noite escura"
+1844	1	30	89	85	30	2	29	94	"Dia claro; noite nublada"
+1844	1	31	90	85	30	9	29	99	"Manha clara; tarde e noite pouca chuva"
+1844	2	1	88	83	30	11	30	2	"Manha clara, tarde nublada e vento; noite para chuva"
+1844	2	2	86	83	30	9	29	99	Tempo claro
+1844	2	3	86	83	30	8	29	96	Tempo claro
+1844	2	4	87	84	30	6	29	94	Tempo claro
+1844	2	5	88	84	30	4	29	98	"Tempo claro; à tarde vento"
+1844	2	6	87	84	30	10	30	0	"Tempo claro; à tarde vento"
+1844	2	7	87	83	30	7	30	0	"Manha clara; tarde vento; noite pouca chuva"
+1844	2	8	84	81	30	10	30	2	"Manha clara; tarde vento; noite pouca chuva"
+1844	2	9	85	82	30	7	30	0	"Manha clara; tarde vento; noite pouca chuva"
+1844	2	10	84	81	30	1	29	93	"Manha clara; tarde vento; noite pouca chuva"
+1844	2	11	83	81	30	7	30	0	Tempo claro
+1844	2	12	84	82	30	12	30	5	Tempo claro
+1844	2	13	85	83	30	10	30	2	Tempo claro
+1844	2	14	86	83	30	19	30	8	Tempo claro
+1844	2	15	86	83	30	26	30	15	Tempo nublado
+1844	2	16	84	81	30	28	30	20	Tempo nublado
+1844	2	17	84	79	30	24	30	10	Tempo claro
+1844	2	18	87	81	30	14	29	98	"Manha clara; tarde nublada e vento forte e chuvisco"
+1844	2	19	84	82	30	10	30	2	Tempo claro
+1844	2	20	85	82	30	14	30	6	Tempo claro
+1844	2	21	86	82	30	19	30	11	Tempo claro
+1844	2	22	86	83	30	23	30	13	Tempo claro
+1844	2	23	87	83	30	18	30	11	Tempo claro
+1844	2	24	86	83	30	14	30	10	Tempo claro
+1844	2	25	87	83	30	16	30	11	Tempo claro, vento sul à tarde
+1844	2	26	87	82	30	17	30	13	Tempo claro, vento sul à tarde
+1844	2	27	85	82	30	13	30	5	Tempo claro, vento sul à tarde
+1844	2	28	85	82	30	11	30	2	Tempo claro, vento sul à tarde
+1844	2	29	85	83	30	13	30	5	"Dia nublado; noite clara"
+1844	3	1	85	83	30	6	30	0	"Manhá clara, tarde nublada e trovoada; noite clara"
+1844	3	2	88	82	30	2	29	95	Tempo claro
+1844	3	3	89	84	30	6	29	98	Manha clara, tarde nublada e pouca chuva, noite nublada
+1844	3	4	87	84	30	15	30	5	Manha clara, tarde pouca chuva, noite chuva forte e  trovoada
+1844	3	5	85	83	30	10	30	7	Dia nublado com pouca chuva, noite chuva forte
+1844	3	6	81	79	30	19	30	9	Día e noite chuva e trovoada
+1844	3	7	81	78	30	15	30	9	Manha cedo chuva, depois mudável, noite chuva e trovoada
+1844	3	8	80	77	30	15	30	10	Día variàvel, noite chuvosa
+1844	3	9	79	77	30	15	30	9	Día chuvoso, noite nublada
+1844	3	10	81	77	30	13	30	8	Tempo claro
+1844	3	11	83	78	30	13	30	8	Manhá clara, tarde nublada, noite clara
+1844	3	12	82	79	30	20	30	12	Manhá clara, tarde nublada e trovoada, noite chuva
+1844	3	13	82	79	30	16	30	11	Día nublado
+1844	3	14	84	80	30	13	30	3	Manha clara, tarde nublada, noite chuva
+1844	3	15	85	81	30	4	29	95	Manhá clara, tarde nublada, noite clara
+1844	3	16	85	81	30	2	29	98	Manhá clara, tarde e noite variável
+1844	3	17	85	81	30	13	30	0	Tempo claro
+1844	3	18	86	82	30	14	30	6	Tempo claro
+1844	3	19	88	82	30	9	30	1	Tempo claro
+1844	3	20	88	83	30	7	30	0	Manha clara, tarde nublada, noite trovoada e pouca chuva
+1844	3	21	88	83	30	2	29	93	Manhá clara, tarde e noite chuva e trovoada
+1844	3	22	87	83	29	99	29	93	Manhá nublada, tarde e noite chuva
+1844	3	23	85	82	30	17	27	97	Tempo variável
+1844	3	24	81	79	30	25	30	15	Tempo variável
+1844	3	25	81	79	30	31	30	23	Manhá cedo chuva, depois nublada e chuva
+1844	3	26	79	76	30	33	30	26	Manhá cedo chuva, depois nublada e chuva
+1844	3	27	78	76	30	33	30	27	Día nublado, noite alguma chuva
+1844	3	28	78	75	30	29	30	23	Manha nublada, tarde pouca chuva, noite nublada
+1844	3	29	79	76	30	28	30	22	Tempo claro
+1844	3	30	81	77	30	24	30	15	Tempo claro
+1844	3	31	83	78	30	16	30	7	Día claro, noite nublada
+1844	4	1	83	79	30	11	30	7	Manhá clara, tarde nublada, noite pouca chuva
+1844	4	2	85	80	30	15	30	7	Día claro, noite nublada
+1844	4	3	85	80	30	20	30	9	Manhá clara, tarde nublada, noite nublada e ventosa
+1844	4	4	85	81	30	23	30	13	Tempo variável e tarde pouca chuva
+1844	4	5	84	81	30	25	30	18	Tempo claro
+1844	4	6	85	80	30	24	30	13	Manhá clara, tarde nublada, noite pouca chuva
+1844	4	7	84	80	30	15	30	5	Manha clara, tarde nublada, noite pouca chuva
+1844	4	8	84	81	30	18	30	12	Manhá nublada, tarde chuva, noite nublada
+1844	4	9	82	77	30	28	30	17	Tempo chuvoso
+1844	4	10	79	76	30	36	30	30	Día variàvel, noite chuvosa
+1844	4	11	78	75	30	34	30	30	Tempo variável com alguma chuva
+1844	4	12	80	75	30	30	30	25	Tempo claro
+1844	4	13	78	75	30	29	30	24	Manhá nublada, tarde e noite clara
+1844	4	14	79	74	30	32	30	24	Manhá nublada, tarde e noite clara
+1844	4	15	79	74	30	29	30	22	Tempo claro
+1844	4	16	80	75	30	24	30	10	Tempo claro
+1844	4	17	81	75	30	10	29	98	Tempo claro
+1844	4	18	82	77	30	10	29	97	Día variàvel, noite chuvosa
+1844	4	19	79	78	30	27	30	10	Tempo variável com pouca chuva
+1844	4	20	79	76	30	27	30	20	Tempo claro
+1844	4	21	79	75	30	24	30	13	Tempo claro
+1844	4	22	80	75	30	30	30	20	Tempo claro
+1844	4	23	79	75	30	36	30	30	Tempo claro
+1844	4	24	79	73	30	37	30	26	Tempo claro
+1844	4	25	80	73	30	29	30	17	Tempo claro
+1844	4	26	81	74	30	17	30	12	Tempo claro
+1844	4	27	81	76	30	22	30	17	Tempo claro
+1844	4	28	80	76	30	20	30	11	Manhá nublada, tarde clara
+1844	4	29	80	75	30	20	30	10	Manhá nublada, tarde clara, noite pouca chuva
+1844	4	30	79	74	30	23	30	18	Tempo variável alguma chuveira
+1844	5	1	76	73	30	25	30	17	Día variàvel, noite chuvosa
+1844	5	2	75	72	30	26	30	20	Tiempo variavel com chuveiros
+1844	5	3	74	72	30	26	30	22	Idem
+1844	5	4	75	71	30	25	30	20	Idem sem chuva
+1844	5	5	77	71	30	25	30	20	Tempo claro
+1844	5	6	77	71	30	25	30	18	Idem
+1844	5	7	78	73	30	29	30	12	Idem
+1844	5	8	78	73	30	13	30	7	Tempo variável
+1844	5	9	77	74	30	7	29	95	Idem
+1844	5	10	77	74	30	5	29	98	Idem com pouca chuva
+1844	5	11	76	71	30	2	29	93	Idem sem chuva
+1844	5	12	74	69	30	20	30	8	Tempo claro
+1844	5	13	75	69	30	30	30	20	Idem
+1844	5	14	75	69	30	33	30	25	Idem
+1844	5	15	78	71	30	33	30	24	Idem
+1844	5	16	77	73	30	24	30	5	Idem
+1844	5	17	79	75	30	35	30	3	Tempo variável com vento e á noite chuva
+1844	5	18	77	74	30	35	30	22	Tempo nublado e chuvoso
+1844	5	19	77	73	30	36	30	26	Tempo claro
+1844	5	20	76	71	30	36	30	11	Idem
+1844	5	21	79	72	30	26	30	5	"Tempo variável e ventoso; e á noite pouca chuva"
+1844	5	22	76	73	30	24	30	10	Tempo claro
+1844	5	23	76	71	30	20	30	15	Tempo claro
+1844	5	24	77	71	30	22	30	15	Tempo claro
+1844	5	25	78	72	30	16	30	5	Tempo claro
+1844	5	26	80	75	30	23	30	10	"Manhá clara; tarde e noite variável, ventosa e com alguma chuva"
+1844	5	27	81	77	30	25	30	17	Idem
+1844	5	28	77	75	30	38	30	25	Tempo muito chuvosa
+1844	5	29	75	70	30	39	30	26	Dia variável com pouca chuva, noite clara
+1844	5	30	75	69	30	26	30	15	Tempo claro
+1844	5	31	77	69	30	38	30	25	Idem
+1844	6	1	75	70	30	41	30	34	Tempo claro de amanhá neblina
+1844	6	2	75	71	30	40	30	30	Tempo claro de amanhá neblina
+1844	6	3	75	71	30	38	30	29	Tempo claro de amanhá neblina
+1844	6	4	77	71	30	33	30	26	Tempo claro de amanhá neblina
+1844	6	5	77	72	30	30	30	20	Tempo claro de amanhá neblina
+1844	6	6	79	72	30	29	30	24	Tempo claro de amanhá neblina
+1844	6	7	78	73	30	31	30	20	Tempo claro de amanhá neblina
+1844	6	8	79	73	30	22	30	15	Tempo claro de amanhá neblina
+1844	6	9	78	73	30	22	30	18	Tempo claro de amanhá neblina
+1844	6	10	79	73	30	22	30	18	Tempo claro de amanhá neblina
+1844	6	11	79	73	30	21	30	15	Tempo claro de amanhá neblina
+1844	6	12	79	73	30	16	30	3	Tempo claro de amanhá neblina
+1844	6	13	79	74	30	7	30	0	Idem sem neblina
+1844	6	14	77	74	30	16	30	7	Tempo variável com pouca chuva
+1844	6	15	75	69	30	24	30	16	Tempo chuvoso
+1844	6	16	71	66	30	24	30	10	Tempo variável
+1844	6	17	70	66	30	10	30	5	Tempo claro
+1844	6	18	73	67	30	15	30	5	Tempo claro
+1844	6	19	74	69	30	19	30	8	Tempo claro
+1844	6	20	75	69	30	30	30	19	Tempo variável e ventoso
+1844	6	21	73	69	30	45	30	30	Tempo variável com chuva
+1844	6	22	71	69	30	50	30	43	Tempo variável com chuva
+1844	6	23	70	67	30	46	30	37	Tempo variável com chuva
+1844	6	24	69	67	30	45	30	39	Tempo variável com chuva
+1844	6	25	72	67	30	39	30	30	Tempo claro, com neblina de manha
+1844	6	26	74	68	30	40	30	32	Tempo claro, com neblina de manha
+1844	6	27	75	69	30	36	30	26	Tempo claro sem neblina
+1844	6	28	74	71	30	50	30	36	Tempo variável com alguma chuva
+1844	6	29	73	71	30	52	30	46	Tempo variável com alguma chuva
+1844	6	30	74	71	30	51	30	42	Tempo claro
+1844	7	1	76	70	30	47	30	36	Tempo claro
+1844	7	2	74	70	30	40	30	28	Tempo claro
+1844	7	3	73	70	30	34	30	25	Tempo claro
+1844	7	4	76	70	30	34	30	25	Tempo claro
+1844	7	5	76	70	30	32	30	24	Tempo claro
+1844	7	6	75	72	30	32	30	22	Tempo variável
+1844	7	7	75	73	30	39	30	30	Tempo chuvoso
+1844	7	8	74	71	30	38	30	34	Tempo chuvoso
+1844	7	9	73	69	30	46	30	31	Tempo chuvoso
+1844	7	10	70	68	30	38	30	26	Tempo variável
+1844	7	11	70	67	30	26	30	17	Tempo chuvoso o vento
+1844	7	12	70	66	30	31	30	26	Tempo chuvoso
+1844	7	13	69	65	30	35	30	27	Tempo chuvoso
+1844	7	14	69	64	30	32	30	25	Tempo variável
+1844	7	15	68	64	30	32	30	19	Tempo variável
+1844	7	16	70	66	30	47	30	32	Tempo chuvoso
+1844	7	17	72	66	30	52	30	45	Tempo variável
+1844	7	18	73	66	30	45	30	28	Tempo claro
+1844	7	19	74	66	30	30	30	20	Tempo claro
+1844	7	20	72	67	30	22	30	14	Tempo claro
+1844	7	21	70	68	30	35	30	22	Tempo nublado
+1844	7	22	70	68	30	36	30	30	Tempo nublado
+1844	7	23	69	67	30	32	30	17	Tempo muito chuvosa
+1844	7	24	71	67	30	27	30	20	Tempo variavel
+1844	7	25	71	67	30	32	30	24	Tempo claro
+1844	7	26	73	67	30	32	30	25	Tempo variavel, com neblinas de manha
+1844	7	27	73	68	30	36	30	26	Tempo claro, idem
+1844	7	28	74	69	30	37	30	28	Tempo claro
+1844	7	29	73	69	30	32	30	24	Tempo variável
+1844	7	30	75	69	30	27	30	22	Tempo claro
+1844	7	31	76	70	30	32	30	25	Idem
+1844	8	1	77	72	30	31	30	22	Tempo claro
+1844	8	2	78	73	30	40	30	28	Tempo variável
+1844	8	3	78	73	30	43	30	37	Tempo variável
+1844	8	4	78	73	30	45	30	36	Día claro, noite variável
+1844	8	5	77	73	30	42	30	33	Tempo claro
+1844	8	6	76	73	30	40	30	28	Tempo variável
+1844	8	7	77	72	30	28	30	17	Tempo claro
+1844	8	8	78	73	30	30	30	12	Idem: á noite vento forte SO
+1844	8	9	77	73	30	38	30	30	Idem: á noite vento forte SO
+1844	8	10	77	72	30	36	30	27	Idem: á noite vento forte SO
+1844	8	11	77	71	30	39	30	31	Idem: á noite vento forte SO
+1844	8	12	76	71	30	33	30	17	Idem: á noite vento forte SO
+1844	8	13	75	70	30	17	30	6	Idem: á noite vento forte SO
+1844	8	14	75	73	30	42	30	15	"Manhá nublada; tarde e noite chuvosa"
+1844	8	15	75	69	30	47	30	36	Tempo pouco chuvoso
+1844	8	16	75	69	30	36	30	18	Tempo variável
+1844	8	17	74	71	30	20	30	18	Tempo pouco chuvoso
+1844	8	18	75	71	30	18	30	8	Tempo pouco chuvoso
+1844	8	19	76	71	30	21	30	11	Tempo variável
+1844	8	20	73	70	30	25	30	18	Tempo pouco chuvoso
+1844	8	21	74	70	30	20	30	10	Tempo variável
+1844	8	22	75	71	30	12	30	2	Tempo pouco chuvoso
+1844	8	23	75	70	30	27	30	12	Tempo pouco chuvoso
+1844	8	24	75	70	30	33	30	24	Tempo claro
+1844	8	25	72	69	30	36	30	28	Tempo pouco chuvoso
+1844	8	26	72	69	30	33	30	20	Tempo chuvoso
+1844	8	27	73	68	30	28	30	18	Tempo variável
+1844	8	28	73	70	30	18	30	3	Tempo variável
+1844	8	29	73	70	30	32	30	17	Tempo pouco chuvoso
+1844	8	30	72	69	30	36	30	31	Tempo pouco chuvoso
+1844	8	31	70	67	30	40	30	36	Tempo pouco chuvoso
+1844	9	1							
+1844	9	2							
+1844	9	3							
+1844	9	4							
+1844	9	5							
+1844	9	6							
+1844	9	7							
+1844	9	8							
+1844	9	9							
+1844	9	10							
+1844	9	11							
+1844	9	12							
+1844	9	13							
+1844	9	14							
+1844	9	15							
+1844	9	16							
+1844	9	17							
+1844	9	18							
+1844	9	19							
+1844	9	20							
+1844	9	21							
+1844	9	22							
+1844	9	23							
+1844	9	24							
+1844	9	25							
+1844	9	26							
+1844	9	27							
+1844	9	28							
+1844	9	29							
+1844	9	30							
+1844	10	1							
+1844	10	2							
+1844	10	3							
+1844	10	4							
+1844	10	5							
+1844	10	6							
+1844	10	7							
+1844	10	8							
+1844	10	9							
+1844	10	10							
+1844	10	11							
+1844	10	12							
+1844	10	13							
+1844	10	14							
+1844	10	15							
+1844	10	16							
+1844	10	17							
+1844	10	18							
+1844	10	19							
+1844	10	20							
+1844	10	21							
+1844	10	22							
+1844	10	23							
+1844	10	24							
+1844	10	25							
+1844	10	26							
+1844	10	27							
+1844	10	28							
+1844	10	29							
+1844	10	30							
+1844	10	31							
+1844	11	1							
+1844	11	2							
+1844	11	3							
+1844	11	4							
+1844	11	5							
+1844	11	6							
+1844	11	7							
+1844	11	8							
+1844	11	9							
+1844	11	10							
+1844	11	11							
+1844	11	12							
+1844	11	13							
+1844	11	14							
+1844	11	15							
+1844	11	16							
+1844	11	17							
+1844	11	18							
+1844	11	19							
+1844	11	20							
+1844	11	21							
+1844	11	22							
+1844	11	23							
+1844	11	24							
+1844	11	25							
+1844	11	26							
+1844	11	27							
+1844	11	28							
+1844	11	29							
+1844	11	30							
+1844	12	1							
+1844	12	2							
+1844	12	3							
+1844	12	4							
+1844	12	5							
+1844	12	6							
+1844	12	7							
+1844	12	8							
+1844	12	9							
+1844	12	10							
+1844	12	11							
+1844	12	12							
+1844	12	13							
+1844	12	14							
+1844	12	15							
+1844	12	16							
+1844	12	17							
+1844	12	18							
+1844	12	19							
+1844	12	20							
+1844	12	21							
+1844	12	22							
+1844	12	23							
+1844	12	24							
+1844	12	25							
+1844	12	26							
+1844	12	27							
+1844	12	28							
+1844	12	29							
+1844	12	30							
+1844	12	31							

@@ -1,0 +1,46 @@
+ID: ARGVFO1			
+Country: Argentina			
+City: Villa Formosa 			
+Period: Winter 1879- Spring 1887			
+Resolution: Seasonal			
+Observers: The observations start in May 1879 under the direction of Dr. Fontana. In April 1880 start to observe Luis Zamfrine			
+Location Observatory: -26.18, -58.17 (82masl)			
+Meteorological variables: Mean temperature (Column 3) (Celsius), Mean barometer (Column 4) (mm). 			
+Data source:  Davis, Gualterio G. 1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.			
+Descriptive Name: VILLA_FORMOSA_1879-1888TB			
+			
+YEAR	SEASONAL	T MEAN	B MEAN
+1879	winter	18,87	750,67
+1879	spring	22,96	754,28
+1880	summer	27,01	751,15
+1880	autumn	21,4	755,3
+1880	winter	19,45	756,35
+1880	spring	20,43	754,9
+1881	summer	27,47	750,68
+1881	autumn	22,58	753,78
+1881	winter	16,94	757,42
+1881	spring	23,36	753,24
+1882	summer	26,37	752,46
+1882	autumn	21,52	756
+1882	winter	17,24	
+1882	spring	22,9	
+1883	summer	26,55	753,44
+1883	autumn	21,54	756,19
+1883	winter	17,35	758,03
+1883	spring	22,02	755,19
+1884	summer	26,63	753,34
+1884	autumn	22,29	755,95
+1884	winter	18,02	756,8
+1884	spring	21,23	755,8
+1885	summer	26,23	753,35
+1885	autumn	20,99	755,43
+1885	winter	16,17	758,22
+1885	spring	23,19	754,56
+1886	summer		
+1886	autumn	22,12	754,04
+1886	winter	16,79	758,26
+1886	spring	21,05	755,31
+1887	summer	26	753,18
+1887	autumn	20,52	756,11
+1887	winter	19,55	755,95
+1887	spring	21,49	754

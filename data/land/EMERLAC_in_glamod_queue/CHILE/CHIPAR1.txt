@@ -1,0 +1,161 @@
+ID: CHIPAR1																	
+Country: Chile																	
+City: Punta Arenas																	
+Period: June 1851- October 1851																	
+Resolution: Daily																	
+Observers: Bemjamín Muñoz Gamero																	
+Location Observatory:  -53.16, -70.91																	
+Meteorological variables: Barometer at 8h, 12h, 16h (Column 4, 5, 6) (English inches); Temperature 8h, 12h, 16h (Column 7, 8, 9) (Fahrenheit), state of the sky at 8h, 12h, 16h (Column 10, 11, 12) (Spanish); Win direction at 8h, 12h, 16h (Column 13, 14, 15) (Spanish); wind force at 8h, 12h, 16h(16, 17, 18).																
+Data source: Sobre el clima del estrecho de Magallanes por Don Benjamín Muñoz Gamero. Observaciones meteorológicas hechas en Punta Arenas desde el 1 de junio hasta el 27 de octubre. Anales de la Universidad de Chile, 9:289-296																	
+Descriptive Name: PUNTA_ARENAS_1851																	
+																	
+YEAR	MONTH	DAY	B 8H	B 12H	B 15H	T 8H	T 12H	T 16H	SS 8H	SS 12H	SS 16H	WD 8H	WD 12H	WD 16H	WF 8H	WF 12H	WF 16H
+1851	6	1	30,8	30,8	30,8	33	42	40	celajado	celajado	celajado	O	calma	calma	lento		
+1851	6	2	30,8	30,8	30,8	34	39	41	celajado	celajado	celajado	calma	calma	NO			lento
+1851	6	3	30,8	30,8	30,8	40	44	37	celajado	celajado	celajado	calma	calma	calma			
+1851	6	4	30,8	30,8	30,8	34	38	39	nublado	nublado	nublado	calma	calma	calma			
+1851	6	5	29,68	29,69	29,6	39	40	38	nublado	nublado	nublado	N	N	calma	lento	lento	
+1851	6	6	29,47	29,47	29,47	40	40	41	nublado	nublado	nublado	N	N	NO	lento	lento	lento
+1851	6	7	29,59	29,52	29,5	42	44	40	nublado	nublado	nublado	O	O	O	lento	lento	lento
+1851	6	8	29,51	29,68	29,68	38	40	43	celajado	celajado	celajado	SO	SO	SO	lento	lento	lento
+1851	6	9	29,8	29,8	29,76	34	38	35	hermoso	celajado	celajado	SO	SO	SO	lento	lento	lento
+1851	6	10	29,5	29,48	29,5	36	36	33	hermoso	lluvioso	lluvioso	SO	SO	SO	lento	lento	fresquito
+1851	6	11	29,59	29,59	29,59	59	40	42	nevado	celajado	nevado	SO	SO	SO	fresquito	fresquito	lento
+1851	6	12	29,64	29,67	29,76	40	40	39	lluvioso	lluvioso	lluvioso	SO	SO	SO	fresquito	fresquito	lento
+1851	6	13	30,2	30,37	30,37	40	41	38	lluvioso	hermoso	hermoso	SO	SO	calma	lento	lento	
+1851	6	14	30,37	30,37	30,37	38	40	42	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	6	15	30,56	30,56	30,56	38	44	42	hermoso	hermoso	hermoso	so	calma	calma	lento		
+1851	6	16	30,28	30,26	30,21	34	38	33	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	6	17	30,4	30,14	30,28	38	40	39	nublado	nublado	lluvioso	calma	E	E		fresquito	fresquito
+1851	6	18	30,47	30,47	30,15	40	40	39	lluvioso	lluvioso	lluvioso	NE	NE	NE	fresquito	fresquito	fresquito
+1851	6	19	29,9	29,77	29,73	40	44	40	lluvioso	nublado	lluvioso	NE	NE	NE	lento	lento	lento
+1851	6	20	29,49	29,49	29,49	38	39	38	nublado	nublado	nublado	calma	calma	calma			
+1851	6	21	29,49	29,49	29,49	42	40	40	hermoso	celajado	lluvioso	calma	calma	calma			
+1851	6	22	29,49	29,49	29,49	37	40	38	hermoso	hermoso	nublado	calma	calma	calma			
+1851	6	23	29,13	29,13	29,13	36	39	40	hermoso	hermoso	celajado	so	so	calma	lento	lento	
+1851	6	24	30,4	30,4	30,3	39	40	37	nublado	nevando	nublado	calma	calma	calma			
+1851	6	25	30,4	30,4	30,4	40	44	39	hermoso	hermoso	lluvioso	calma	calma	calma			
+1851	6	26	30,4	30,4	30,4	37	44	40	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	6	27	30,4	30,4	30,4	35	42	40	hermoso	hermoso	nublado	calma	calma	calma			
+1851	6	28	30,4	30,4	30,4	38	41	40	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	6	29	30,4	30,4	30,4	39	42	40	celajado	hermoso	celajado	calma	SO	calma		lento	
+1851	6	30	30,4	30,4	30,4	37	45	40	celajado	celajado	nublado	so	so	so	fresquito	lento	
+1851	7	1	30,1	30,1	30,1	39	40	40	celajado	celajado	nublado	so	so	so	lento	lento	lento
+1851	7	2	30,1	30,1	30,1	38	40	37	celajado	celajado	nublado	so	so	so	lento	lento	lento
+1851	7	3	30,1	30,1	30,1	36	38	34	nevado	nevando	celajado	so	so	so	fresquito	fresquito	lento
+1851	7	4	30,1	30,1	30,1	36	38	34	nublado	hermoso	celajado	s	s	s	fresquito	fresquito	fresquito
+1851	7	5	30,1	30,1	30,1	38	38	36	nublado	celajado	celajado	so	so	so	fresquito	fresquito	fresquito
+1851	7	6	29,71	29,71	29,82	34	37	33	nevado	nevando	hermoso	so	so	so	fresquito	fresquito	fresquito
+1851	7	7	29,82	29,82	29,82	32	36	35	celajado	hermoso	celajado	so	so	so	lento	lento	lento
+1851	7	8	29,82	30,34	30,46	35	37	44	hermoso	celajado	celajado	s	s	s	lento	lento	lento
+1851	7	9	30,46	30,46	30,46	30	36	31	hermoso	hermoso	hermoso	s	s	s	lento	lento	lento
+1851	7	10	30,46	30,46	30,46	33	38	36	hermoso	hermoso	nublado	s	s	s	lento	fresquito	lento
+1851	7	11	30,46	30,46	30,46	37	38	35	hermoso	hermoso	celajado	s	s	calma	lento	lento	
+1851	7	12	30,46	30,46	30,46	35	38	34	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	7	13	30,46	30,46	30,46	30	34	32	hermoso	nublado	nublado	calma	so	so		lento	lento
+1851	7	14	30,46	30,46	30,46	38	44	40	celajado	celajado	celajado	so	so	so	lento	lento	lento
+1851	7	15	30,38	30,38	30,38	39	40	37	hermoso	celajado	celajado	calma	so	calma		lento	
+1851	7	16	30,34	30,29	30,25	27	35	19	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	7	17	30,12	30,4	30,4	30	35	31	nublado	nevando	nevado	calma	calma	calma			
+1851	7	18	30,4	30,4	30,4	34	36	35	lluvioso	lluvioso	lluvioso	calma	calma	calma			
+1851	7	19	30,4	30,4	30,4	36	38	35	lluvioso	lluvioso	lluvioso	ne	ne	ne	fresquito	fresquito	fresquito
+1851	7	20	30,4	30,4	30,4	34	38	35	lluvioso	lluvioso	lluvioso	no	no	no	fresquito	fresquito	fresquito
+1851	7	21	30,4	30,4	30,4	34	40	35	lluvioso	lluvioso	nublado	calma	calma	calma			
+1851	7	22	30,4	30,4	30,4	40	42	40	lluvioso	lluvioso	nublado	n	calma	calma	lento		
+1851	7	23	30,4	30,4	30,4	38	40	40	lluvioso	lluvioso	lluvioso	calma	calma	calma			
+1851	7	24	30,4	30,4	30,4	38	41	37	lluvioso	lluvioso	lluvioso	no	e	e	lento	lento	lento
+1851	7	25	30,4	30,4	30,3	40	44	39	lluvioso	lluvioso	lluvioso	e	e	e	fresquito	fresquito	fresquito
+1851	7	26	30,4	30,4	30,4	34	37	35	nevado	nevando	lluvioso	calma	calma	calma			
+1851	7	27	30,4	30,4	30,4	40	42	38	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	7	28	30,4	30,4	30,4	40	42	39	hermoso	celajado	celajado	calma	calma	calma			
+1851	7	29	30,1	30,19	30,19	39	42	40	celajado	nublado	nublado	calma	calma	calma			
+1851	7	30	30,19	30,19	30,21	36	40	39	hermoso	nublado	nublado	calma	calma	calma			
+1851	7	31	30,21	30,21	30,21	35	38	36	nublado	nublado	nublado	no	calma	calma	lento		
+1851	8	1															
+1851	8	2															
+1851	8	3															
+1851	8	4															
+1851	8	5															
+1851	8	6															
+1851	8	7															
+1851	8	8															
+1851	8	9															
+1851	8	10															
+1851	8	11															
+1851	8	12															
+1851	8	13															
+1851	8	14															
+1851	8	15															
+1851	8	16															
+1851	8	17															
+1851	8	18															
+1851	8	19															
+1851	8	20															
+1851	8	21															
+1851	8	22															
+1851	8	23															
+1851	8	24															
+1851	8	25															
+1851	8	26															
+1851	8	27															
+1851	8	28															
+1851	8	29															
+1851	8	30															
+1851	8	31															
+1851	9	1	29,94	29,94	29,94	46	48	44	hermoso	hermoso	hermoso	calma	calma	calma			
+1851	9	2	29,94	29,94	29,94	44	42	42	nublado	nublado	nublado	so	so	calma	lento	lento	
+1851	9	3	29,94	29,94	29,94	38	40	37	hermoso	hermoso	hermoso	s	s	calma	fresquito	fresquito	
+1851	9	4	29,94	29,94	29,94	41	46	40	nublado	nublado	nublado	n	o	o	lento	fresquito	fresquito
+1851	9	5	29,94	29,94	29,94	44	52	46	hermoso	hermoso	hermoso	o	o	o	lento	fresquito	fresco
+1851	9	6	29,94	29,94	29,94	40	45	39	hermoso	hermoso	hermoso	so	so	calma	fresquito	lento	
+1851	9	7	29,94	29,94	29,94	40	47	43	nublado	hermoso	celajado	n	o	calma	lento	lento	
+1851	9	8	29,94	29,94	29,94	40	44	41	hermoso	celajado	celajado	so	so	so	fresquito	fresquito	fesquito
+1851	9	9	29,94	29,94	29,94	42	48	39	hermoso	hermoso	hermoso	so	so	calma	fresquito	fresquito	
+1851	9	10	29,94	29,94	29,94	40	47	41	hermoso	lluvioso	lluvioso	o	o	o	fresquito	freso	lento
+1851	9	11	29,94	29,94	29,94	39	43	40	nevado	nevando	nevado	o	o	o	fresquito	fresquito	lento
+1851	9	12	29,94	29,94	29,94	44	46	44	lluvioso	nublado	lluvioso	o	o	o	fresco	fresquito	lento
+1851	9	13	29,94	29,94	29,94	43	48	42	celajado	celajado	celajado	o	o	o	fresquito	fresquito	lento
+1851	9	14	29,8	29,67	29,72	40	44	40	celajado	nublado	nublado	so	so	so	fresquito	fresquito	lento
+1851	9	15	29,83	29,98	30,15	39	44	35	celajado	celajado	celajado	so	so	so	fresquito	fresquito	fresquito
+1851	9	16	30,3	30,34	30,42	40	42	38	celajado	celajado	celajado	o	o	calma	lento	lento	
+1851	9	17	30,3	29,9	29,78	41	44	42	nublado	celajado	celajado	n	n	calma	fresquito	fresquito	
+1851	9	18	29,83	29,93	30,1	46	50	44	hermoso	hermoso	celajado	calma	calma	calma			
+1851	9	19	30,15	30,22	30,35	46	52	45	hermoso	hermoso	celajado	o	calma	calma	lento		
+1851	9	20	30,35	30,35	30,35	43	51	47	nublado	celajado	celajado	o	o	calma	lento	lento	
+1851	9	21	30,35	30,35	30,35	44	50	52	hermoso	celajado	hermoso	calma	n	calma		lento	
+1851	9	22	30,35	30,35	30,35	46	49	42	nublado	lluvioso	nublado	calma	calma	ne			lento
+1851	9	23	30,35	30,35	30,35	44	46	43	lluvioso	nublado	nublado	calma	n	calma		lento	
+1851	9	24	29,49	29,4	29,35	47	56	49	celajado	celajado	celajado	calma	n	o		lento	lento
+1851	9	25	29,15	29,11	29,11	44	48	43	celajado	celajado	celajado	o	o	o	fresquito	fresco	lento
+1851	9	26	29,44	29,48	29,48	46	46	44	celajado	lluvioso	celajado	o	o	calma	lento	lento	
+1851	9	27	29,3	28,83	28,77	39	40	40	lluvioso	lluvioso	lluvioso	e	e	e	frequito	frequito	frequito
+1851	9	28	29,43	29,45	29,42	40	42	39	celajado	celajado	celajado	o	o	o	fresquito	fresquito	fresquito
+1851	9	29	29,56	29,62	29,78	44	49	43	celajado	celajado	celajado	o	o	o	lento	fresquito	lento
+1851	9	30	29,56	29,48	29,36	42	43	40	nublado	nublado	nublado	ne	e	e	lento	lento	lento
+1851	10	1	29,42	29,45	29,52	44	47	42	celajado	celajado	celajado	o	o	o	lento	lento	lento
+1851	10	2	29,57	29,57	29,57	45	49	44	nublado	nublado	nublado	o	o	no	lento	lento	lento
+1851	10	3	29,57	29,57	29,57	47	54	49	hermoso	hermoso	hermoso	o	o	o	lento	lento	lento
+1851	10	4	29,39	29,28	29,28	45	49	44	celajado	celajado	celajado	se	se	calma	lento	lento	
+1851	10	5	28,92	29	29,18	42	46	40	lluvioso	celajado	celajado	calma	n	n		lento	fresquito
+1851	10	6	29,25	29,36	29,49	39	45	39	celajado	celajado	celajado	o	o	s	lento	fresquito	lento
+1851	10	7	29,49	29,42	29,31	38	47	44	nublado	nublado	lluvioso	n	n	n	fresquito	fresquito	lento
+1851	10	8	29,9	29,19	29,26	46	50	44	nublado	nublado	hermoso	o	o	o	lento	lento	lento
+1851	10	9	29,36	29,5	29,71	44	48	42	celajado	nublado	hermoso	so	o	o	lento	lento	lento
+1851	10	10	29,94	30,1	30,1	46	49	45	hermoso	hermoso	hermoso	ne	ne	calma	lento	lento	
+1851	10	11	29,98	29,98	29,98	46	47	44	nublado	celajado	nublado	o	o	calma	lento	lento	
+1851	10	12	29,62	29,7	29,66	46	49	44	nublado	nublado	nublado	o	o	o	lento	lento	lento
+1851	10	13	29,82	29,9	29,96	43	49	46	nublado	celajado	nublado	o	o	calma	lento	lento	
+1851	10	14	29,74	29,63	29,56	44	48	46	nublado	nublado	nublado	e	o	o	lento	fresquito	fresquito
+1851	10	15	29,67	29,67	29,67	45	52	44	celajado	celajado	celajado	o	o	o	lento	fresquito	fresquito
+1851	10	16	29,55	29,57	29,57	47	54	46	celajado	nublado	celajado	so	so	so	lento	lento	lento
+1851	10	17	29,5	29,61	29,73	44	49	45	hermoso	celajado	celajado	so	so	so	fresquito	fresquito	fresquito
+1851	10	18	29,73	29,73	29,73	48	56	47	celajado	nublado	celajado	o	o	o	fresquito	fresquito	fresquito
+1851	10	19	29,81	29,81	29,81	50	57	48	celajado	hermoso	celajado	o	o	o	lento	lento	lento
+1851	10	20	29,61	29,57	29,57	49	53	45	nublado	celajado	celajado	on	o	o	lento	fresquito	fresquito
+1851	10	21	29,57	29,57	29,52	44	50	48	celajado	celajado	celajado	calma	o	o		lento	lento
+1851	10	22	29,41	29,41	29,41	45	48	42	lluvioso	lluvioso	lluvioso	no	o	o	fresquito	fresquito	fresquito
+1851	10	23	29,77	29,89	30,15	46	49	43	nublado	nublado	nublado	so	o	o	fresquito	fresquito	lento
+1851	10	24	29,96	29,9	29,83	48	52	46	celajado	celajado	celajado	o	o	o	lento	fresquito	fresquito
+1851	10	25	29,85	29,85	29,89	47	50	46	nublado	nublado	nublado	o	o	o	lento	lento	lento
+1851	10	26	29,97	29,97	29,97	45	54	44	celajado	hermoso	celajado	so	so	se	lento	lento	lento
+1851	10	27	29,76	29,7	29,64	48	51	47	nublado	nublado	nublado	so	so	so	lento	lento	lento

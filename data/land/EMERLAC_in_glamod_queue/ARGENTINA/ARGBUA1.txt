@@ -1,0 +1,68 @@
+ID: ARGBUA1											
+Country: Argentina											
+City: Buenos Aires											
+Period: August and September 1801											
+Resolution: Daily 											
+Observers: The observer had the initials D.A.S.C.											
+Location Observatory: -34.61, -58.38 (in a house in the downtown)											
+Meteorological variables: Maximum and Minimum thermometer (Column 4, 5) (Reaumur); Maximum and Minimum barometer (Column 6, 7) (French inches), Hygrometer (Column 8); Annotation of the hygrometer (Column 9) (H: Humid S: Dry); Dominant winds (Column 10) (Spanish); Wind force (Column 11) (Spanish); State of the sky (Column 12) (Spanish).											
+Data source: Resistro estadistico del estado de buenos aires 1857, Imprenta de la tribuna, Buenos Aires, 1858.											
+Descriptive Name: Buenos Aires_1801 											
+Other comments: The times of observations were 8h, 12h and 16h. Take the attention the reference to snowfall the 1st September 1801. The hygrometer was indoors.											
+											
+											
+Year	Month	Day	T MAX	T MIN	B MAX	B MIN	H	H H/S	W D	W F	S K
+1801	8	1	11,6	11,3	27,6	27,5	21	H	SSO	VENTOSO	nubes gruesas
+1801	8	2	11,6	10,8	27,7	27,5	20	H	N, NNE	BONACIBLE	Amenanzando a llover
+1801	8	3	10,8	10,5	27,5	27,3	17	H	SSO	TEMPESTUOSO	turbia
+1801	8	4	11,8	10,5	27,7	27,3	19	H	E	VENTOSO	lluvia menuda
+1801	8	5	11,8	11,2	27,5	27,3	21	H	ESE	CALMOSO	lluvia fuerte
+1801	8	6	11,5	11,5	27,6	27,4	21	H	E, NE	BONACIBLE	variable
+1801	8	7	11,9	11,5	27,7	27,3	20	H	E, ENE	VENTOSO	nublado
+1801	8	8	11,3	8,8	27,2	27,9	19	S	SO	VENTOSO	revuelta
+1801	8	9	8,9	7,5	28,3	28,2	19	S	O	VENTOSO	soltando nubes
+1801	8	10	10,9	8,8	28,2	28	5	H	ONO	BONACIBLE	clara
+1801	8	11	10,9	10	28,1	28	13	H	OSO	VENTOSO	clara
+1801	8	12	10,5	9,5	27,9	27,8	20	H	E, VARIABLES		clara
+1801	8	13	10	10	27,7	27,2	25	H	NE Y SO	VENTOSO	nublado y lluvia
+1801	8	14	10,9	9,5	27,4	27,2	12	S	SO	VENTOSO	soltando nubes
+1801	8	15	10,2	6,5	28,4	27,5	20	S	O,ONO	VENTOSO	clara
+1801	8	16	10,4	9,2	28,6	28,4	13	S	ONO		clara
+1801	8	17	11,5	10,6	28,6	27,8	15	S	NO,SE Y S		nublada
+1801	8	18	10,1	9,6	28	27,8	16	S	S, SSO	VENTOSO	gruesa
+1801	8	19	9,8	8,5	28,2	28	18	S	E, ENE Y N 	BONACIBLE	clara
+1801	8	20	9,1	8,4	27,8	27,3	4	H	N, NNE Y NE 	VARIABLES	revuelta
+1801	8	21	9,6	8,5	27,7	27,3	10	S	S, SSO	VENTOSO	nublada
+1801	8	22	9,6	9	27,6	27,5	14	S	S, SSE	VENTOSO	soltando nubes
+1801	8	23	9,6	8,1	27,9	27,6	16	S	S	VENTOSO	clara
+1801	8	24	9,1	6,7	28,3	27,6	24	S	VARIABLES NNE	VENTOSO	clara
+1801	8	25	10,2	7,8	28,5	27,9	26	S	N,NNO	VENTOSO	clara
+1801	8	26	11,1	9,8	28,6	28,4	19	S	N	BONACIBLE	clara
+1801	8	27	11,8	10,3	28,6	28,4	15	S	N, NNO	BONACIBLE	clara
+1801	8	28	12,5	10,4	28,7	28,4	14	S	N	BONACIBLE	clara
+1801	8	29	13,4	11,4	28,6	28,2	15	S	N, NNO	CALMOSO	turbia
+1801	8	30	14,2	12	28	27,8	9	S	N,NNE	BONACIBLE	nublada
+1801	8	31	14,3	13,5	27,8	27,3	14	S	VARIABLE Y SO	VENTOSO	revuelta
+1801	9	1	13,4	11,6	27,6	27,3	29	S	SSO, S, O, 	VENTOSO	nevada
+1801	9	2	12,1	11,6	27,9	27,6	29	S	SO Y VARIABLES		revuelta
+1801	9	3	12,1	11,7	27,6	27,3	27	S	E, ESE Y SSE		nevada y lluvia
+1801	9	5	10,9	10,2	27,9	27,6	26	s	N, NNE	BONACIBLE	clara
+1801	9	6	11	10,4	28,2	27,8	25	s	E, ENE Y ESE	BONACIBLE	clara
+1801	9	7	12,5	11	28,5	28,1	27	s	E, ESE	BONACIBLE	clara
+1801	9	8	12,6	11,6	28,2	27,3	20	s	ENE, NE	VENTOSO	soltando nubes
+1801	9	9	13,1	12,6	27	26,6	19	s	SSE,S	VARIABLES	lluvia gruesa
+1801	9	10	12,9	11,5	26,6	26,6	21	s	SOS, SO	GR DE VIENTO	lluvia menuda
+1801	9	11	10,9	10,8	27,1	26,6	22	s	SO, OSO	VENTOSO	nublada
+1801	9	12	10,7	10,2	27,5	27,1	20	s	ONO, NO	VENTOSO	soltando nubes
+1801	9	13	10,4	10,2	27,2	27,1	19	s	ESE VARIABLES		lluvia y variable
+1801	9	14	10,8	10,3	27,5	27,3	19	s	E, ESES	CALMOSO	clara
+1801	9	15	10,2	10,3	27,7	27,4	19	s	ESE,OSO Y VARIABLE		nublada
+1801	9	16	10,5	10,2	27,5	27,4	18	s	OSO, SO	VENTOSO	soltando nubes
+1801	9	17	10,2	10,1	27,7	27	19	s	SO VARIABLE	BONACIBLE	clara
+1801	9	18	10,5	10,2	27,8	27,6	20	s	E, ESE	BONACIBLE	soltando nubes
+1801	9	19	10,8	10,3	28	27,7	21	s	NO VARIABLES		clara
+1801	9	20	12,4	10,9	28,3	27,9	17	s	N, NNO	BONACIBLE	gruesa
+1801	9	21	12,8	11,2	28,4	27,8	16	s	E, NE, N	BONACIBLE	clara
+1801	9	22	13,4	12,6	28,3	28,2	15	s	E, ENE	BONACIBLE	soltando nubes
+1801	9	23	13,8	13,3	28,2	27,8	15	s	ENE	VENTOSO	VARIABLES
+1801	9	24	14,2	13,8	28,3	27,9	15	s	OSO, SO	VENTOSO	clara

@@ -1,0 +1,71 @@
+ID: ARGCON1													
+Country:  Argentina													
+City: Concordia													
+Period: December 1875- December 1878; March 1887- December 1888													
+Resolution: Monthly													
+Observers: German Frey. From March 1887 to December 1888 the observer was Mac Leod 													
+Location Observatory: -31.38, -58.02 (61masl) 													
+Meteorological variables: Precipitation (Column 3) (mm); days of rainfall (Column 4); hours of rainfall (Column 5) (HH:MM)													
+Data source: Davis, Gualterio G. 1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.													
+Descriptive Name: CONCORDIA_1875_1888													
+													
+YEAR	MONTH	PRECIPITATION	RAINFALL DAYS	RAINFALL HOURS									
+1875	12	108,2											
+1876	1	334	8	66:50									
+1876	2	128,1	9	15:25									
+1876	3	132	9	28:00									
+1876	4	77,5	5	19:00									
+1876	5	189,3	8	28:00									
+1876	6	96,3	8	36:75									
+1876	7	17,7	2	4:25									
+1876	8	24,3	3	15:50									
+1876	9	41,8	4	15:00									
+1876	10	75,7	6	27:25									
+1876	11	44,6	4	16:50									
+1876	12	16,2	5	3:50									
+1877	1	1,7	1	1:00									
+1877	2	87	7	18:00									
+1877	3	196	4	30:00									
+1877	4	389,3	16	91:00									
+1877	5	33	6	9:50									
+1877	6	56,1	7	52:25									
+1877	7	60	9	36:50									
+1877	8	34,6	5	51:50									
+1877	9	57,8	1	12:50									
+1877	10	108,9	8	29:25									
+1877	11	50,1	6	9:50									
+1877	12	162,2	7	33:00									
+1878	1	137,2	5	26:00									
+1878	2	96,9	8	28:50									
+1878	3	151,6	10	41:50									
+1878	4	34,1	4	16:50									
+1878	5	17,1	3	8:25									
+1878	6	125,6	8	41:50									
+1878	7	76,4	6	20:25									
+1878	8	41,3	3	15:25									
+1878	9	67,2	4	34:50									
+1878	10	169,5	7	31:25									
+1878	11	75,2	9	33:00									
+1878	12	95,1	5	34:00									
+1887	3	3,1											
+1887	4	145,5											
+1887	5	14,4											
+1887	6	26,1											
+1887	7	88											
+1887	8	19											
+1887	9	117,1											
+1887	10	94,6											
+1887	11	38,9											
+1887	12	158,8											
+1888	1	61,2											
+1888	2	11,9											
+1888	3	35,7											
+1888	4	66,2											
+1888	5	35,9											
+1888	6	42,8											
+1888	7	166,6											
+1888	8	206,4											
+1888	9	118,8											
+1888	10	41,9											
+1888	11	101,9											
+1888	12	150,7											

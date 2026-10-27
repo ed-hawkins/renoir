@@ -1,0 +1,27 @@
+ID: CRISJO2				
+Country: Costa Rica				
+City: San Jose				
+Period: 1866- 1880				
+Resolution: Annual				
+Observers: Maison (1821-1881), Chief of the Statistical Office of Costa Rica.				
+Location Observatory: 9.93, -84.08 (elevation 1199 masl) 				
+Meteorological variables: Precipitation (Column 2) (cm) ; Days of Rainfall (Column 3); Days of Storm (Column 4); Atmospheric Pressure Oscillation (Column 5) (mm).				
+Data source: Pitter E., 1889. Anales del instituto físico-geográfico nacional.				
+				
+				
+	PRECIPITATION	RAINFALL	STORM	APO
+1866	162	171	31	
+1867	140	169	29	
+1868	144	183	33	5,6
+1869	156	173	42	6,2
+1870	191	198	39	7
+1871	193	210	37	4,2
+1872	220	186	36	5,9
+1873	142	174	36	5,5
+1874	154	202	44	6,4
+1875	149	170	14	5,6
+1876	128	189	33	5
+1877	136	178	27	5,4
+1878	158	219	44	5,7
+1879	219	223	25	5,7
+1880	156	182	27	6,6

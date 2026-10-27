@@ -1,0 +1,15 @@
+ID: COLMAR1				
+Country: Colombia				
+City: Marmato				
+Period: 1827				
+Resolution: Monthly				
+Observers: Unknown				
+Location Observatory: 5.47, -75.60				
+Meteorological variables: Day, night and total precipitation (Column 3, 4, 5) (cm)				
+Data source:  Boussingault J.B. 1851. Économie rurale considérée dans ses rapports avec la chimie, la physique et la météorologie. Béchet Jeune, Paris.				
+Descriptive Name: MARMATO_1827				
+				
+YEAR	MONTH	PRE DAY	PRE NIG	PRE TOT
+1827	10	3,4	15,1	18,5
+1827	11	1,8	20,8	22,6
+1827	12	0,2	15,9	15,1

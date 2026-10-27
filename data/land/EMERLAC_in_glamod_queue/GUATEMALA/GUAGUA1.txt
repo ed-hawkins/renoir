@@ -1,0 +1,49 @@
+ID: GUAGUA1		
+Country: Guatemala		
+City: Guatemala		
+Period: 1846-1848		
+Resolution: Monthly		
+Observers: Unknown		
+Location observatory: 14.64°, -90.51°		
+Meteorological variables: Mean temperature (Column3) (Fahrenheit)		
+Data source: Dove 1859. Über die nicht periodischen Veranderungen der Temperatur-Vertheilung auf der Oberfläche der Erde. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1858.		
+Descriptive name: GUATEMALA_1846_1848 		
+Other comments: These series show around +1°C difference during the overlapping period with GUATEMALA_1847_1848 (ID: GUAGUA2)		
+		
+Year	Month	T Mean
+1846	1	66,4
+1846	2	68,85
+1846	3	69,4
+1846	4	71,39
+1846	5	72,13
+1846	6	69,24
+1846	7	68,6
+1846	8	67,91
+1846	9	68,85
+1846	10	66,5
+1846	11	65,7
+1846	12	65,3
+1847	1	65,4
+1847	2	66,4
+1847	3	66,3
+1847	4	68,8
+1847	5	71,6
+1847	6	68
+1847	7	68,17
+1847	8	68,9
+1847	9	67,5
+1847	10	66,87
+1847	11	65,47
+1847	12	62,17
+1848	1	63,13
+1848	2	64,77
+1848	3	66,27
+1848	4	69,27
+1848	5	70,37
+1848	6	68,8
+1848	7	69,07
+1848	8	69,1
+1848	9	68,9
+1848	10	68,23
+1848	11	68,7
+1848	12	67,03

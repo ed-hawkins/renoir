@@ -1,0 +1,48 @@
+ID: CUBHA8				
+Country: Cuba				
+City: Havana				
+Period: January 1854 December 1856				
+Resolution: Monthly				
+Observers: Unknow (probably José Luis Casaseca)				
+Location Observatory: 23.13, -82.35 (Instituto de Investigaciones Químicas).				
+Meteorological variables:  Precipitation (Column 3) (mm), Days of rainfall (Column 4)				
+Data source: Anales de la Isla de Cuba 1855. Imprenta del tiempo, Habana. 1856, 685pp.				
+Descriptive Name: Havana1854_1856				
+				
+YEAR	MONTH	PRECIPITATION	RAINFALL	
+1854	1	32	9	
+1854	2	74	4	
+1854	3	88	4	
+1854	4	96,5	12	
+1854	5	57	11	
+1854	6	107,6	13	
+1854	7	162	9	
+1854	8	136	9	
+1854	9	117,4	10	
+1854	10	69,5	9	
+1854	11	10	5	
+1854	12	60,2	10	
+1855	1	96,8	11	
+1855	2	111	4	
+1855	3	90,5	3	
+1855	4	122,5	4	
+1855	5	67	4	
+1855	6	226,6	17	
+1855	7	253,6	17	
+1855	8	188,5	13	
+1855	9	28,5	3	
+1855	10	213,5	8	
+1855	11	79,5	7	
+1855	12	28,3	5	
+1856	1	105,5	6	
+1856	2	125,5	6	
+1856	3	58,2	4	
+1856	4	7	4	
+1856	5	58,1	5	
+1856	6	112	8	
+1856	7	102	9	
+1856	8	303,8	11	
+1856	9	391	7	
+1856	10	137	10	
+1856	11	41,8	3	
+1856	12	16,5	4	

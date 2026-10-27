@@ -1,0 +1,24 @@
+ID: ECUQUI4																																		
+Country: Ecuador																																		
+City: Quito																																		
+Period: January-December 1866																																		
+Resolution: Monthly																																		
+Observers: F. C. Aguilar																																		
+Location Observatory: -0.22, -78.51 (17m above that plaza ground)																																		
+Meteorological variables: Maximum, mean and minimum temperature (Column 3, 4, 5) (Celsius); maximum, mean and minimum barometer reduced to 0ºC (Column 6, 7, 8) (mm); maximum, mean and minimum relative humidity (Column 9, 10, 11) (%); Maximum, mean and minimum water vapor pressure (Column 12, 13, 14); maximum, minimum mean and total precipitation (Column 15, 16, 17, 18) (mm); state of the sky: rainfall (Column 19); fog (Column 20); clear (Column 21), cloudy (Column 22), overcast (Column 23), lightning (Column 24), thunder (Column 25), hail (Column 26); wind: NNE (Column 27), SSE (Column 28), NNW (Column 29), SSW (Column 30),  calms (Column 31), variable (Column 32), maximum mean and minimum wind force 24h (Column 33, 34, 35) (Km/h)																																		
+Data source:  Aguilar F.C. 1868. Boletín meteorológico del observatorio del colegio nacional de Quito, dirigido por los padres de la compañía de Jesús segundo Año 1866. Imprenta Nacional, Quito, Ecuador.																																		
+Descriptive Name: QUITO 1866																																		
+																																		
+YEAR	MONTH	T MAX	T MEAN	T MIN	B MAX	B MEAN	B MIN	HS MAX	HS MEAN	HS MIN	WV MAX	WV MEAN	WV MIN	PRE MAX	PRE MIN	PRE MEAN	PRECIPITATION	RAINFALL	FOG	CLEAR	CLOUDY	OVERCAST	LIGHTNING	THUNDER	HAIL	NNE	SSE	NNW	SSW	CALMS	VAR	W MAX 24H	W MEAN	W MIN
+1866	1	21,5	13,83	5,8	546,98	544,92	543,31	0,99	0,835	0,468	11,71	9,38	7,05	62	0,5	7,5	225,6	20	14	16	41	36	3	11	2	36	16	8	8	16	15			
+1866	2	21,9	12,48	5,2	545,66	544,59	543,32	0,998	0,796	0,401	12,06	9,12	6,69	41	0,5	7,5	274	19	18	13	23	43	3	10	0	37	22	5	13	10	19			
+1866	3	23,3	14,88	4,8	547,4	545,3	544,14	0,998	0,851	0,388	11,92	9,75	7,19	55	0,5	11,6	270,9	21	23	10	39	44	2	6	1	52	15	7	9	10	21			
+1866	4	25,7	14,95	4,5	546,82	545,1	544,08	0,956	0,757	0,339	11,53	8,98	7	18	0,3	6,5	65	12	19	21	47	22	3	8	0	45	15	5	15	10	17			
+1866	5	22,8	13,65	5,6	546,37	545,13	544,24	0,962	0,77	0,22	9,94	8,73	4,98	43	1	12,7	298	22	14	19	44	32	1	8	2	29	13	7	16	13	21			
+1866	6	24,1	13,79	5	547,07	545,31	544,37	0,932	0,662	0,222	10,12	7,25	3,58	2	0,3	0,7	3,9	4	6	42	42	6	0	2	1	28	11	7	24	6	21			
+1866	7	24	12,89	4,4	546,9	545,26	544,87	0,93	0,614	0,32	10,64	6,66	4,73	2	0	0,2	2	1	4	24	35	4	0	1	0	20	10	6	20	3	12			
+1866	8	23,5	12,9	3,5	545,7	544,91	543,91	0,976	0,654	0,303	10,71	7,34	4,61	31	0,4	2,7	82,5	8	4	30	45	12	0	5	2	31	22	8	21	6	8			
+1866	9	26	13,79	5,5	545,8	545,17	544,31	0,975	0,671	0,31	10,7	7,53	5,06	22	6	2,9	87	5	8	26	38	26	2	7	1	27	28	6	26	12	20			
+1866	10	25,3	14,84	5,5	545,41	544,77	442,12	0,95	0,675	0,304	13,18	8,84	5,64	51	1	8,22	161,6	13	6	23	43	26	1	11	2	24	10	10	24	22	19			
+1866	11	25,4	15,11	4,7	546,42	544,57	543,03	0,98	0,794	0,501	12,89	9,28	6,7	21	1	4,5	224,3	17	16	9	39	42	3	8	0	15	8	8	14	42	1	194,434	133,144	65,65
+1866	12	26,1	16,1	6,8	545,81	544,67	542,7	0,98	0,845	0,32	14,81	9,81	5,71	18,1	0,3	3	90,35	17	19	16	39	37	0	1	1	33	27	9	9	14	3	167,96	81,825	3,532

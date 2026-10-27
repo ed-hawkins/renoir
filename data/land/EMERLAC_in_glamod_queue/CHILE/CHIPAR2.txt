@@ -1,0 +1,26 @@
+ID: CHIPAR2				
+Country: Chile				
+City: Punta Arenas				
+Period: September 1853- August 1854				
+Resolution: Monthly				
+Observers:  Jorge C. Schythe. He was a Danish professor of Natural Sciences and the first governor of the “territorio de Magallanes” (actual province of Magallanes).				
+Location Observatory: -53.16, -70.91 (10 masl)				
+Meteorological variables: Mean temperature (Column 3) (Celsius); precipitation (m) (Column 4); days of rainfall or snowfall (Column 5).			
+Data source: El territorio de Magallanes y su colonización por Jorge C. Schyte. Anales de la Universidad de Chile. Julio 1855(1), 435-465				
+Descriptive Name: PUNTA_ARENAS_1853_1854				
+Other comments: The instruments were hanged in the shade oriented to the south, in the wall of a room where never lit fire. The thermometer is 1,5m above the ground and 10m above the sea level, exposed to the air circulation, but shield of the sun and atmospheric waters.				
+The bronze rain gauge is fixed to a stick in the center of a patio, it is 10 m distant to the roof few elevated that enclose the patio. It is a 2.3m above the ground. The recipient has an opening of one square decimeter and is connected to the receptacle by a narrow funnel. The cylindrical glass has divisions of two cubic centimeters, that correspond with two tenth of mm of water, with some practice it is possible distinguish the half divisions (0.01m3), that’s correspond to 0.001m.				
+				
+YEAR	MONTHLY	MEAN T	PRECIPITATION	RAINFALL
+1853	9	3,48	0,0488	12
+1853	10	8,54	0,0477	11
+1853	11	9,49	0,0592	13
+1853	12	11,16	0,0293	18
+1854	1	11,96	0,0202	8
+1854	2	11,68	0,026	15
+1854	3	9,95	0,0223	11
+1854	4	7,02	0,0479	10
+1854	5	4,21	0,0833	6
+1854	6	3,24	0,0873	12
+1854	7	2,15	0,0979	12
+1854	8	3,01	0,0878	10

@@ -1,0 +1,73 @@
+ID: ECUQUI1					
+Country: Ecuador					
+City: Quito					
+Period: July 1825- June 1828					
+Resolution: Monthly					
+Observers: Colonels Hall and Salaza. Hall observed from July 1825 to April 1827 (missing values from November 1825 to January 1826, and July 1826). Colonel Francisco Hall was English; he travels to Ecuador to fight for the American independence. Hall arrived to Guayaquil in 1821 and died in Quito in October 1833 during the uprising in support of Pedro Mena. Salaza observed from July 1827 to June 1828				
+Location Observatory: -0.21, -78.51 (2914masl)					
+Meteorological variables: Mean temperature (Column 3) (Celsius). 					
+Data source:  Boussingault M. 1849. Viajes científicos a los Andes Ecuatoriales. Lasserre, Paris, Francia. 322pp.					
+Descriptive Name: QUITO_1825_1828					
+Other comments: Two measurements were taken daily one during the sunrise and another two hours after the sunset. Boussingault (1849) write that this observations were done with “excellent instruments (its exactitude is a fact) and with a great care”.				
+					
+YEAR	MONTH	T MEAN			
+1825	7	16,5			
+1825	8	16,7			
+1825	9				
+1825	10	15,1			
+1825	11				
+1825	12				
+1826	1				
+1826	2	15,9			
+1826	3	15,7			
+1826	4	15,5			
+1826	5	15,4			
+1826	6	14,1			
+1826	7				
+1826	8	16			
+1826	9	16,4			
+1826	10	15,7			
+1826	11	15,7			
+1826	12	14,8			
+1827	1	15,3			
+1827	2	16,5			
+1827	3	15,2			
+1827	4	15,2			
+1827	5				
+1827	6				
+1827	7	13,7			
+1827	8	15,5			
+1827	9	16,2			
+1827	10	15,8			
+1827	11	15			
+1827	12	16,9			
+1828	1	14,4			
+1828	2	15,9			
+1828	3	15,8			
+1828	4	15,7			
+1828	5	16,4			
+1828	6	15,9			
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

@@ -1,0 +1,25 @@
+ID: MEXMEX2					
+Country: Mexico					
+City: Mexico City					
+Period: 1858					
+Resolution: Monthly					
+Observer: Francisco Jimenez					
+Location Observatory: 19.43, -99.14					
+Meteorological variables: All the measurements were taken at 12h. Days of observation (Column 3); Atmospheric Pressures (Column 4) (English inches); Fixed Thermometer to the barometer (Column 5) (Fahrenheit); Free thermometer (Column 6) (Fahrenheit scale)."					
+Data source: Boletín de la sociedad mexicana de geografía y estadística tomo VII 1859, pagina 492.					
+Descriptive Name: MEXICO_CITY_1858					
+Other comments: The barometer was a siphon barometer constructed by Ja. Green de N. York (núm 1361). The free thermometer was constructed by Wm. Wiirdemann in Washington.					
+					
+YEAR	MONTH	OBS	BAR	T F	T L
+1858	1	27	21,136	65,44	64,16
+1858	2	28	23,107	64,91	63,6
+1858	3	31	23,119	69,55	68,34
+1858	4	28	23,14	70,95	69,95
+1858	5	31	23,15	70,53	69,75
+1858	6	28	23,127	71	70,33
+1858	7	25	23,1919	69,54	68,9
+1858	8	26	23,198	68,56	67,72
+1858	9	28	23,192	66,95	66,17
+1858	10	27	23,172	68,33	67,11
+1858	11	27	13,163	65,24	63,95
+1858	12	27	23,175	65,22	63,79

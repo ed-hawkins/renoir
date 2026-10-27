@@ -1,0 +1,25 @@
+ID: GUAGUA4																																							
+Country: Guatemala																																							
+City: Guatemala																																							
+Period: 1862																																							
+Resolution: Monthly																																							
+Observers: Antonio Canudas and José Lizarzaburu. Antonio Canudas creates the department of Physics and the meteorological observatory at the seminary. Canudas published a treatise of physics in 1864 (Canudas, 1864) with chapter focus on meteorology.																																							
+Location Observatory: 14.64°, -90.51° (1477m.a.s.l.), North Tower of the Colegio Seminario																																							
+Meteorological variables: Maximum (Column 3), Mean (Column 4), and Minimum (Column 5) Thermometer (Celsius); Maximum (Column 6), Mean (Column 7), and Minimum (Column 8) Relative Humidity (percentage); Maximum (Column 9), Mean (Column 10), and Minimum (Column 11) Absolute Humidity; Maximum (Column 12), Mean (Column 13), and Minimum (Column 14) Barometer (mm Hg reduced to 0ºC); Maximum (Column 15), Mean (Column 16), and Minimum (Column 17) Evaporation (mm); Precipitation (Column 18) (mm); State of the Sky: Clear (Column 19), Cloudy (Column 20), Overcast (Column 21), Fog (Column 22); Wind Direction: Calm (Column 23), Variable (Column 24), NE (Column 25), SW(Column 26); Extraordinary phenomena: Rainfall (Column 27), Hail (Column 28), Thunder (Column 29), Storm (Column 30), Tremor (Column 31).																																						
+Data source: Aguilar F.C., 1865. Boletín meteorológico o resumen de las observaciones meteorológicas: Hechas en el Colegio Nacional de Quito a cargo de los padres de la Compañía de Jesús, desde el 7 de junio de 1864 hasta el 7 del mismo mes y año de 1865 y comparadas con las de Guatemala de 1862 y con la de Santiago de Chile de 1863 y 64. Imprenta Nacional, Quito, Ecuador. 44pp.																																							
+Descriptive Name: GUATEMALA_1862 																																							
+Other comments: Canudas A 1864. Tratado elemental de Física por el P. Antonnio Canudas de la Compañía de Jesus.Imprenta de Magriña y Subirana, Barcelona. 384pp.																																							
+																																							
+YEAR	MONTH	T MAX	T MEAN	T MIN	RH MAX	RH MEAN	RH MIN	AH MAX	AH MEAN	AH MIN	B MAX	B MEAN	B MIN	E MAX	E MEAN	E MIN	P	CLEAR	CLOUDY	OVERCAST	FOG	CALM	VARIABLE	NE	SW	RAINFAL	HAIL	THUNDER	STORM	TREMOR									
+1862	1	28,1	16,1	7,6	94,3	74	46,1	10,68	10,3	9,68	642,52	641,86	640,68	8,7	5,7	3,4	2,2	21	9	1	14	1	3	23	4	4	1	7	1	0									
+1862	2	28,7	17,84	10	91,5	71,2	40,5	11,04	10,42	9,5	641,79	641,01	639,7	8,4	5,4	4,4	1,8	21	6	1	8	1	4	12	11	3	0	1	1	0									
+1862	3	29,1	17,69	8,5	87,2	70,1	43,2	10,96	10,36	9,76	641,44	641,71	639,47	8,3	6,9	5,4	0	19	11	1	5	0	5	15	11	0	0	0	0	0									
+1862	4	29	18,71	11	89,4	70	41,3	11,48	10,96	10,06	641,76	641,09	639,99	9,9	7,2	5	0	15	10	5	4	0	9	14	7	0	0	2	0	0									
+1862	5	29,6	19,63	12,5	86,5	70,8	46,6	12,32	11,78	11,06	641,26	641,69	639,68	11	6,8	4	84,5	2	22	7	1	1	10	8	12	8	1	5	4	3									
+1862	6	28,1	18,31	13,3	92,6	84,2	68,1	13,27	13,07	12,7	640,95	640,42	639,51	7,5	4,5	2	319,3	1	5	24	6	2	14	5	9	24	0	3	9	1									
+1862	7	25	18,31	13,5	92	82,2	63,2	13,05	12,79	12,56	641,77	641,23	640,04	8,2	5,5	3	308,7	4	18	9	5	2	5	22	2	20	0	3	6	0									
+1862	8	25,4	18,27	12,4	93	83,5	65,5	13,42	13	12,57	641,82	641,17	640,19	7,8	5,2	3,4	381	1	13	17	6	4	4	17	6	20	0	5	9	0									
+1862	9	26,9	18,18	13	95	85,4	67,9	13,5	12,77	12,46	641,35	640,7	639,55	7,3	4,4	1,9	203,4	0	9	21	6	3	11	12	4	26	0	1	10	0									
+1862	10	24,9	19,06	10	89,7	79,7	62,7	12,92	12,1	11,66	640,95	641,68	639,8	7,2	5	2,5	102,1	5	11	15	7	0	6	23	2	12	0	1	1	0									
+1862	11	24,2	14,75	6,8	85,8	74,7	55,3	9,65	8,99	8,53	641,87	642,64	640,72	7,4	5,6	3,3	2,7	10	15	5	2	0	0	30	0	4	0	0	0	1									
+1862	12	27	15,53	8,9	89,7	77,3	56,6	10,45	10,12	9,73	642,18	641,4	640,87	7,9	5,4	4,2	3,3	2	20	2	9	0	4	27	0	4	0	0	0	6									

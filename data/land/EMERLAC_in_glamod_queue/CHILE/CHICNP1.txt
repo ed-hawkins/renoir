@@ -1,0 +1,158 @@
+ID: CHICNP1											
+Country: Chile											
+City: Concepción											
+Period: July- November 1855											
+Resolution: Daily											
+Observers: Joaquín Villarino. He was professor of Physics and Mathematics at the Liceo de Concepción											
+Location Observatory: -36.83, -73.05											
+"Meteorological variables: Temperature at 8h, 14h, 20h (Column 4, 5, 6); Relative humidity at 8h, 15h (Column 7, 8) (percentage); state of the sky (Column 9) (Spanish); precipitation during the day and night (column 10, 11) (mm); comments (Column 12)."											
+Data source:  Observaciones meteorolojicas e hidrométricas, del estado atmosférico i de los temblores, hechas en los meses de julio, agosto, septiembre, octubre i noviembre de 1855 en el Liceo de Concepción, por don Joaquín Villarino, profesor de física del mismo establecimiento, i presentadas a la Facultad de Ciencias Físicas i Matemáticas. Anales de la Universidad de Chile 1855, 689-708.											
+Descriptive Name: CONCEPCION_1855											
+Other comments: The precipitation unit is probably decimetres no millimeters as is recorded in the original source											
+											
+YEAR	MONTH	DAY	T 8H	T 14H	T 20H	HR 8H	HR 15H	SS	PREC DAY	PREC NIG	COMMENTS
+1855	7	9	8,4	9,6	7			neblina			
+1855	7	10	8	9,5	8			nublado			
+1855	7	11	7,2	10,3	6			cielo claro			
+1855	7	12	7	8,6	7,5			llueve	0,035		
+1855	7	13	9	10	6,4			nublado		0,39	
+1855	7	14	6,6	9,2	7,4			nublado		0,22	
+1855	7	15	7,2	8,7	7,2			nublado		0,132	
+1855	7	16	7,9	9,3	5			nublado			
+1855	7	17	6,4	8,8	6,2			nublado			
+1855	7	18	9,8	10,1	9,3			nublado		0,015	
+1855	7	19	10	9,9	8			nublado		0,004	
+1855	7	20	7	8	7			cielo claro		0,069	
+1855	7	21	4,5	8,3	6,3			cielo claro		0,104	
+1855	7	22	5,6	8,2	7,4			nublado			
+1855	7	23	5	6,2	5			cielo claro			
+1855	7	24	4	7,2	6			cielo claro			
+1855	7	25	6	9,6	7,2			cielo claro			
+1855	7	26	8	13,5	10			nublado			"a las 7:45 de la noche estando el cielo despejado corrió hácia el Este un metéoro luminoso, que a pesar de haber luna llena se dejó ver su luz; dejando en su camino un rastro luminoso que duró por algunos segundos. En este dia se verifico la mayor temperatura del mes"""
+1855	7	27	8,8	10,7	10,9			nublado			
+1855	7	28	10	10,8	10			nublado		0,031	
+1855	7	29	10,6	10,4	8			llueve	0,02	0,149	
+1855	7	30	10	10	9			llueve	0,2	0,25	
+1855	7	31	10,3	9	8			llueve	0,034	0,069	
+1855	8	1	9	9	7	0,93	0,79	nublado			
+1855	8	2	6,9	7,9	6,2	0,93	0,79	llueve	0,032	0,032	
+1855	8	3	7,2	7,8	6,4	1	1	llueve	0,132		
+1855	8	4	6,2	7,7	6,7	0,93	0,92	llueve	0,061	0,08	
+1855	8	5	5	7,8	7,2	1	0,92	cielo claro		0,019	
+1855	8	6	7,8	9	6,8	0,68	0,93	nublado			
+1855	8	7	8	9,2	8,2	0,79	0,93	nublado			
+1855	8	8	6,7	9,3	7,2	1	0,93	nublado		0,04	a las 7:50 de la noche temblor. Fue solo remeson con poco ruido. El cielo estaba despejado, como a los cinco minutos se nubló completamente i luego volvió a despejarse enteramente
+1855	8	9	7,1	8,6	8,4	1	0,93	llueve	0,021		
+1855	8	10	9,8	10	7,6	0,91	0,93	nublado		0,017	
+1855	8	11	8	9,9	8	0,92	1	nublado		0,023	00:36 temblor. No fue precedido de ruido, pero si seguido de uno mui fuerte. Trajo un solo remeson que deró 40``
+1855	8	12	8,6	9,5	8	0,93	0,96	nublado			
+1855	8	13	8,2	9,7	8,2	0,93	0,8	cielo claro		0,039	
+1855	8	14	8	8,3	7,2	0,92	1	llueve	0,14		
+1855	8	15	8,5	11	8,3	1	0,96	cielo claro		0,181	
+1855	8	16	7,2	8,8	8,5	0,93	0,91	neblina, nublado			
+1855	8	17	7,9	8,3	7,9	0,92	1	nublado		0,096	
+1855	8	18	8,6	9,3	8,2	0,81	0,8	nublado		0,02	
+1855	8	19	8,5	9,2	8,6	1	1	neblina, nublado	0,094	0,019	
+1855	8	20	10	10	9	1	1	neblina		0,057	
+1855	8	21	11,2	10,5	8	0,91	1	nublado		0,019	
+1855	8	22	9,3	10,3	7	0,91	0,8	nublado			
+1855	8	23	7,5	10,5	6,2	0,93	0,91	cielo claro			
+1855	8	24	8,2	9,8	8,2	0,93	0,8	nublado			
+1855	8	25	8,3	9,6	7	0,81	0,8	cielo claro		0,013	
+1855	8	26	8,6	10	8,8	0,91	0,91	cielo claro			
+1855	8	27	8,4	11	8,2	0,91	0,91	cielo claro		0,016	
+1855	8	28	8	9	8	1	0,8	nublado			
+1855	8	29	10	10,8	8,1	0,91	0,91	nublado		0,015	
+1855	8	30	9,4	10	8,5	0,96	0,8	nublado		0,04	
+1855	8	31	10	10,6	8	0,8	0,8	nublado			
+1855	9	1	10	12,5	9,4	0,8	0,69	despejado			
+1855	9	2	10,6	16	9	0,69	0,51	despejado			
+1855	9	3	10	14,4	9,8	0,92	1	despejado			
+1855	9	4	10,3	13,9	10,6	0,93	0,92	mui variado			
+1855	9	5	10,6	16,8	11,8	1	0,71	mui variado			
+1855	9	6	11	11,8	11,3	0,92	0,88	nublado		0,091	
+1855	9	7	10,1	11,8	10	1	1	llueve	0,101	0,045	
+1855	9	8	11,3	11,8	10,3	0,91	0,8	nublado			
+1855	9	9	11,4	12,5	10,8	1	1	mui variado		0,023	
+1855	9	10	11,5	13,1	10,5	0,93	0,92	mui variado			
+1855	9	11	10,8	14,4	11,8	0,93	0,8	despejado		0,013	
+1855	9	12	11,5	14	10,5	1	0,92	nublado	0,001	0,006	
+1855	9	13	10	14,1	9	0,8	0,8	mui variado			
+1855	9	14	9,3	10,5	10,4	0,79	0,81	nublado			
+1855	9	15	12,5	11,8	8,3	0,98	0,92	variado			
+1855	9	16	10,6	14	10	0,92	0,8	despejado			temblor
+1855	9	17	13,1	17,8	10,3	0,8	0,8	nublado			
+1855	9	18	12,5	14,4	11,3	0,8	0,82	nublado			
+1855	9	19	12,3	15	11,3	0,68	0,51	nublado			
+1855	9	20	12,5	16,9	11,5	0,73	0,81	despejado			
+1855	9	21	11,6	15,6	11,3	0,92	0,91	nublado			
+1855	9	22	12,5	16,3	10,4	0,8	0,8	nublado	0,039		
+1855	9	23	11,3	13,8	11,3	0,92	0,64	llueve			
+1855	9	24	13,6	16,3	8,8	0,69	0,81	variado			
+1855	9	25	12,6	15,6	10	0,8	0,7	despejado			
+1855	9	26	12,5	17,3	11,3	0,92	0,8	nublado			dos temblores
+1855	9	27	12,5	15,6	12	0,8	0,63	nublado			
+1855	9	28	14,5	17,3	12,5	0,82	0,71	variado			
+1855	9	29	13,5	18,8	12,8	0,69	0,71	despejado			
+1855	9	30	12,8	18,5	12,5	0,8	0,71	despejado			
+1855	10	1	13,8	15	11,3	0,69	0,6	nublado			
+1855	10	2	15	15,6	12,5	0,69	0,81	nublado			
+1855	10	3	13,8	12,5	11,3	0,8	0,81	variado		0,014	El agua caida en este día ha sido en 15 minutos
+1855	10	4	15	16,6	11,3	0,8	0,51	variado			
+1855	10	5	15,6	17,5	12,5	0,71	0,62	despejado			
+1855	10	6	13,8	16,5	11,3	0,7	0,44	nublado			temblor a las 1:45 de la mañana
+1855	10	7	13,8	15	12,5	0,93	0,86	nublado		0,017	
+1855	10	8	12,5	16,5	11,3	0,69	0,51	variado		0,028	
+1855	10	9	10	17,5	12,5	0,43	0,61	despejado			
+1855	10	10	16	15	13,9	0,71	0,65	despejado			
+1855	10	11	11,5	16,5	13,3	0,78	0,92	variado			
+1855	10	12	16,3	15,5	11,3	1	0,97	nublado		0,05	
+1855	10	13	15	15,6	12,5	0,97	0,97	llueve	0,016	0,073	el agua caida ha sido durante 2h
+1855	10	14	13,8	14	11,3	1	1	llueve	0,027	0,019	
+1855	10	15	14,4	13,8	13,8	0,91	1	llueve	0,002		
+1855	10	16	13,8	16,3	12,5	0,93	0,81	nublado	0,001		truenos y relampagos durante la noche
+1855	10	17	15	15	11,3	0,97	1	nublado		0,057	el agua caida de dia ha sido en 30min
+1855	10	18	12,5	13,8	10	0,93	1	nublado	0,007		
+1855	10	19	13,8	16,3	9,9	0,92	0,8	despejado			
+1855	10	20	12,5	16	11,1	0,69	0,92	despejado		0,015	temblor a las 2 de la mañana
+1855	10	21	12,8	15	11,3	0,81	0,7	nublado			
+1855	10	22	13,8	17,5	10	0,92	0,82	despejado			
+1855	10	23	13,8	15,6		0,59	0,7	despejado			
+1855	10	24	15,1	16,3	11,3	0,8	0,91	despejado			
+1855	10	25	15	20	11,5	0,97	0,9	despejado			
+1855	10	26	15	16,3	11,1	1	0,51	nublado			
+1855	10	27	18,8	17,5	11,3	0,71	0,74	variado			
+1855	10	28	17,5	16,3	12,5	0,61	0,54	despejado			
+1855	10	29	15	19,5	13,8	0,61	0,9	despejado			
+1855	10	30	20	26	13,6	0,8	0,9	despejado			
+1855	10	31	16	32	12,3	1	0,55	nublado			
+1855	11	1	11,3	22,5	12,5	0,8	0,7	nublado			
+1855	11	2	12,5	20	11,3	0,87	0,86	despejado			
+1855	11	3	15	17,5	14,8	0,77	0,74	despejado			
+1855	11	4	15	27,4	12,5	0,6	0,84	despejado			
+1855	11	5	16	18,8	13,3	0,84	0,6	despejado			
+1855	11	6	17,5	20	14,8	0,87	0,85	variado			
+1855	11	7	15	19	14,6	0,77	0,75	nublado			
+1855	11	8	17,3	22,8	15,4	0,65	0,76	nublado			
+1855	11	9	20	21,9	12,8	0,65	0,53	nublado			
+1855	11	10	17,5	18,1	15	0,73	0,54	variado			
+1855	11	11	15	20	15,5	0,6	0,41	variado			
+1855	11	12	16,3	21,3	16,3	0,75	0,47	despejado			
+1855	11	13	15	20	18,8	0,68	0,52	variado			
+1855	11	14	18,4	22,5	17,5	0,57	0,44	despejado			
+1855	11	15	18,8	22,5	15	0,59	0,41	despejado			
+1855	11	16	20	20	18,3	0,6	0,55	variado			
+1855	11	17	21	19,9	12,5	0,65	0,59	variado			
+1855	11	18	17,5	22,5	15	0,74	0,43	variado			
+1855	11	19	15	21,3	16,3	0,77	0,4	variado			
+1855	11	20	18,8	22,5	17,5	0,59	0,5	variado			
+1855	11	21	17,5	20	18,8	0,52	0,52	despejado			
+1855	11	22	15	17,5	13,8	0,64	0,45	despejado			
+1855	11	23	16,3	20,6	16,3	0,6	0,41	despejado			
+1855	11	24	15	20	15	0,77	0,52	variado			
+1855	11	25	17,5	18,1	20	0,49	0,51	variado			
+1855	11	26	16,3	19,1	13,8	0,81	0,51	variado			
+1855	11	27	18,8	20	18,8	0,38	0,4	despejado			
+1855	11	28	16,3	21,3	16,3	1	0,56	despejado			
+1855	11	29	20	22,5	15	0,59	0,55	variado			
+1855	11	30	20	22,8	13,8	0,75	0,32	nublado			

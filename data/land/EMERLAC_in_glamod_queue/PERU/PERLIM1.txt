@@ -1,0 +1,116 @@
+ID: PERLIM1
+Country: Peru
+City: Lima
+Period: 1754-1856
+Resolution: Annual/daily
+Observers: Cosmógrafo Mayor del Virreinato del Perú (Major Cosmographer of the Peru Viceroyalty). The cosmographer was the most important scientific position in the Viceroyalty. He was the responsible of elaborate an astronomical almanac each year. We have identifies these cosmographers: Juan Rehr (1753-1756), Cosme Bueno (1757-1796), Francisco Romero (1791-1794), Gabriel Moreno (1798-1809), Hipólito Unanue (1799 -1800), José Gregorio Paredes (1810, 1814-1824), Francisco Romero (1811-1813), Eduardo Carrasco (1825), Nicolás Fernández de Piérola (1826-1827), Nicolás de Piérola y Flores y Mariano Eduardo de Rivero y Ustariz (1827 -1828), José Gregorio Paredes (1828-1837), Eduardo Carrasco (1839 -1853) and José Eboli (1854).
+Location Observatory: -12.05, -77.03
+Meteorological variables: Daily maximum temperature of the year (Column 2) (Reaumur) the observer typically gives a period with the start date (Column 3) and the end day (Column 4); Daily minimum temperature of the year (Column 5) (Reaumur) the observer typically gives a period with the start date (Column 6) and the end day (Column 7).
+Data source:  “El conocimiento de los Tiempos”, “Almanaque Peruano” and “Calendario Peruano”.
+Descriptive Name: LIMA_1754_1856
+Other comments: For the details of the documents seems that the cosmographer take meteorological measurements daily, but only this annual summaries have been preserved.
+
+YEAR	T MAX	X START	X END	T MIN	N START	X END
+1754	23	07-mar		12,7	01-jul	12-aug
+1755	23,5			13,5		
+1756	22,5	17-feb	06-mar	12,5	07-jul	23-aug
+1757	22	11-feb	14-mar	13	25-jun	12-aug
+1758	22	19-jan	19-jan	14	02-aug	17-sep
+1759						
+1760	23,5	09-feb	25-feb	13,5	17-jul	17-jul
+1761	23,5	03-feb	03-feb	14	21-aug	29-aug
+1762	23,5	17-jan	31-jan	13,5	17-jul	30-jul
+1763	23,5	22-feb	22-feb	14	25-jul	30-aug
+1764	23	30-jan	08-feb	13	02-aug	25-aug
+1765	22,5	20-feb	05-mar	13,5	02-aug	06-aug
+1766	21,5	18-feb	16-mar	13,5	01-aug	09-aug
+1767	21,5	12-feb	22-mar	12,5	15-jul	15-jul
+1768						
+1769	22	23-feb	25-mar		15-jul	04-sep
+1770						
+1771	22,5	21-feb	21-feb	13,5	26-jul	07-aug
+1772						
+1773						
+1774						
+1775						
+1776						
+1777	22,5	22-feb	22-feb	12,5	06-aug	06-aug
+1778	21,5	15-feb	02-mar	13	24-jul	13-aug
+1779						
+1780	22	21-feb	29 feb	13	06-aug	06-aug
+1781	22	22-feb	22-feb	13,5	11-aug	07-sep
+1782	22	05-feb	24-feb	14	03-jul	08-sep
+1783	23	23-feb	24-feb	14,5	04-aug	09-aug
+1784	23	08-mar	11-mar	15	25-jul	25-jul
+1785	23	17-feb	13-mar	14	15-jul	20-aug
+1786	23	16-feb	05-mar	13	25-aug	25-aug
+1787	23	14-feb	22-mar	13	22-aug	22-aug
+1788	23	02-feb	06-mar	14	19-jul	09-sep
+1789	23	15-feb	15-mar	13	05-aug	30-aug
+1790	22,5	06-feb	22-feb	13,5	25-aug	14-sep
+1791	24	24-feb	24-feb	13,5	18-aug	
+1792	23,5	31-jan	31-jan	12,5	01-aug	01-aug
+1793	23	23-jan	01-mar	13		04-sep
+1794	23	27-feb	06-mar			
+1795	23	19-feb	08-mar	13	12-jul	05-aug
+1796						
+1797						
+1798	23,5	20-mar	25-mar	12,5	10-jul	20-sep
+1799	24	17-feb	17-feb	12,5	13-jul	26-aug
+1800	22	03-feb	06-mar	12	09-jul	14-sep
+1801	22	25-feb	25-mar	11	28-jul	27-sep
+1802	23	20-mar	06-apr	11	26-aug	27-aug
+1803	25	04-mar	06-mar	12,5	07-aug	13-aug
+1804	27	20-mar	26-mar	12	05-sep	05-sep
+1805	24	10-mar	13-mar	11	21-jul	24-jul
+1806	22	07-feb	02-mar	10	17-jul	26-jul
+1807	24	04-mar	06-mar	10	03-sep	14-sep
+1808	23	20-mar	26-mar	10	28-aug	28-aug
+1809	21	10-mar	13-mar	12	01-aug	12-aug
+1810	23	07-mar	10-mar	12	21-aug	24-aug
+1811	23,5	15-mar	20-mar	12	25-aug	29-aug
+1812	23,5	15-mar	15-mar	11,5		
+1813	22	05-mar	10-mar	9,5	07-jun	19-jul
+1814	22	25-feb	10-mar	12	09-aug	21-aug
+1815	22	08-mar	18-mar	12		
+1816	22	28-feb	17-mar	9	15-jul	15-jul
+1817	22	04-mar	10-mar	13	08-aug	17-aug
+1818	21,5	16-feb	16-feb	11,5	05-aug	05-aug
+1819	21	04-apr	05-apr	9		
+1820	22	18-feb	18-feb	14	09-sep	09-sep
+1821	22	19-mar	21-mar	14		
+1822	21	08-mar	12-mar	13		
+1823	21,5	18-mar	31-mar	13	15-aug	31-aug
+1824	21,5			12,5		
+1825	22	27-feb	08-mar	12,5	19-aug	23-aug
+1826	22	25-feb	18-mar	12,4	14-aug	24-aug
+1827	22,4	28-feb	20-mar	12	04-sep	10-oct
+1828	24	21-feb	04-apr	12,5		
+1829	23,4	24-feb	26-mar	12,7	25-jul	24-aug
+1830	23,33	01-mar	04-mar	10,66	30-jul	09-aug
+1831	23,5	21-mar	26-mar	13	17-aug	23-aug
+1832	24,5	24-feb	06-mar	13,75	14-jul	23-jul
+1833	24,33	28-feb	14-mar	14,25	19-jul	23-jul
+1834	24	08-feb	12-feb	13,33	29-jul	05-aug
+1835						
+1836	24	09-feb	09-feb	13,4	26-aug	30-aug
+1837	24	01-mar	10-mar	14,25	01-aug	09-aug
+1838						
+1839						
+1840	21,2	12-mar	14-mar	13,2	12-jul	14-jul
+1841	22,5	13-mar	22-mar	14	12-jul	24-jul
+1842						
+1843	20,5	23-jan	16-mar	14,8	11-jun	02-aug
+1844						
+1845	21,5	18-jan	20-mar	14	08-jun	20 aug
+1846	22,5	14-mar	28-mar	14,5	04-jun	08-aug
+1847	22,8	16-mar	26-mar	16,5	07-jun	02-sep
+1848	23,2	12-mar	28-mar	15		06-sep
+1849	23,8	10-mar	30-mar	14,2		15-sep
+1850	24	08-mar	10-apr	14,5	12-jun	
+1851	22,5	12-mar	13-apr	13,7	03-jun	
+1852	22,5	15-jan	08-mar	14	31-jul	30-aug
+1853	22	12-jan	18-mar	14		
+1854						
+1855						
+1856	23	10-jan	09-mar	14		

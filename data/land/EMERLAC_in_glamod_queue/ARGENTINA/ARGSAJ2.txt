@@ -1,0 +1,97 @@
+ID: ARGSAJ2		
+Country: Argentina		
+City: San Juan (Buenos Aires province)		
+Period: Summer 1867- Spring 1887		
+Resolution: Seasonal		
+Observers: Leonardo Pereyra		
+Location Observatory: -34.81, -58.05 (12masl) (40km SW of Buenos Aires)		
+Meteorological variables:  Seasonal Precipitation (Column 3)(mm)		
+Data source: Davis, Gualterio G. 1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.		
+Descriptive Name: SAN_JUAN_1867_1887P		
+Other comments: September 1884 was the rainiest month with 472.2mm, 299.6mm fell the days 21, 22 and 23.		
+		
+YEAR	SEASON	PRECIPITATION
+1867	summer	85
+1867	autumn	205
+1867	winter	123,6
+1867	spring	120,6
+1868	summer	302,8
+1868	autumn	110,4
+1868	winter	157,8
+1868	spring	317,5
+1869	summer	375,1
+1869	autumn	276,5
+1869	winter	49,5
+1869	spring	237,3
+1870	summer	191
+1870	autumn	383,9
+1870	winter	101
+1870	spring	83
+1871	summer	166,8
+1871	autumn	256
+1871	winter	174,6
+1871	spring	158
+1872	summer	181,5
+1872	autumn	291,5
+1872	winter	160,3
+1872	spring	102
+1873	summer	343,2
+1873	autumn	198,2
+1873	winter	69,8
+1873	spring	230,5
+1874	summer	199,6
+1874	autumn	159,3
+1874	winter	306,8
+1874	spring	438,6
+1875	summer	261
+1875	autumn	324,8
+1875	winter	67,2
+1875	spring	289,6
+1876	summer	279,1
+1876	autumn	379,1
+1876	winter	170,7
+1876	spring	175,4
+1877	summer	234
+1877	autumn	213,8
+1877	winter	267,6
+1877	spring	241,6
+1878	summer	259,1
+1878	autumn	391
+1878	winter	249,6
+1878	spring	279,3
+1879	summer	194,8
+1879	autumn	198,8
+1879	winter	170,2
+1879	spring	161,4
+1880	summer	344,6
+1880	autumn	316,6
+1880	winter	172
+1880	spring	208,6
+1881	summer	294,4
+1881	autumn	200
+1881	winter	276
+1881	spring	342
+1882	summer	451,2
+1882	autumn	147,2
+1882	winter	404,4
+1882	spring	209,4
+1883	summer	120
+1883	autumn	534,8
+1883	winter	420
+1883	spring	418,4
+1884	summer	148,2
+1884	autumn	465,2
+1884	winter	113,8
+1884	spring	676,2
+1885	summer	384,6
+1885	autumn	410,2
+1885	winter	184,2
+1885	spring	460,6
+1886	summer	176,6
+1886	autumn	386,8
+1886	winter	251,8
+1886	spring	304,6
+1887	summer	239,1
+1887	autumn	104,6
+1887	winter	289,6
+1887	spring	186,4

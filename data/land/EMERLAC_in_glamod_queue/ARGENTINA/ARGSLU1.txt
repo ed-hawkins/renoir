@@ -1,0 +1,55 @@
+ID: ARGSLU1			
+Country: Argentina 			
+City: San Luis			
+Period: May 1874- October 1877			
+Resolution: Monthly			
+Observers: German Avé Lallement professor of physics of the school.			
+Location Observatory: -33.31, -66.34 (759masl) (Colegio Nacional de San Luis)			
+Meteorological variables: Precipitation (Column 3) (mm), days of rainfall (Column 4).			
+Data source: Davis, Gualterio G. 1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.			
+Descriptive Name: SAN_LUIS_1874_1877			
+Other comments: The greatest rainfall was the 8th December of 1874 (80.1mm)			
+			
+YEAR	MONTH	PRECIPITATION	DAYS RAINFALL
+1874	5	19	3
+1874	6	3	2
+1874	7	0	0
+1874	8	2,9	4
+1874	9	0	0
+1874	10	0	0
+1874	11	132,5	3
+1874	12	139,9	8
+1875	1	73,4	12
+1875	2	86,6	8
+1875	3	15	4
+1875	4	36	4
+1875	5	5	1
+1875	6	1	1
+1875	7	0	0
+1875	8	0,6	1
+1875	9	37,6	9
+1875	10	59,8	8
+1875	11	29	7
+1876	12	88,2	9
+1876	1	60,1	10
+1876	2	66,4	5
+1876	3	95,4	7
+1876	4	67,5	7
+1876	5	4,9	2
+1876	6	13,1	4
+1876	7	0	0
+1876	8	15,3	4
+1876	9	9,6	5
+1876	10	70,8	8
+1876	11	157,9	15
+1876	12	106,5	10
+1877	1	36,1	6
+1877	2	60,1	9
+1877	3	131	10
+1877	4	3,9	2
+1877	5	11,6	3
+1877	6	20,9	6
+1877	7	7,6	4
+1877	8	5,4	2
+1877	9	0	0
+1877	10	25,1	5

@@ -1,0 +1,25 @@
+ID: CUBHAV1																
+Country: Cuba																
+City: Havana																
+Period: 1794																
+Resolution: Monthly																
+Observers: Unknown																
+Location Observatory: 19.43, -99.14																
+Meteorological variables: Maximum absolute (Column 3), Minimum absolute (Column 4), Maximum mean (Column 5), Minimum mean (Column 6), Mean (Column 7) Thermometer (Reaumur scale); Maximum (Column 8), Minimum (Column 9) Barometer (mm); State of the sky: Clear (Column 10), Cloudy (Column 11), Overcast (Column 12), Rainfall (Column 13); Wind direction: N to E (Column 14), E to S (Column 15), S to W (Column 16), W to N (Column 17).														
+Data source: de Sagra, R., 1863, Historia física, política y natural de la isla de Cuba.  Tomo I. Librería de Arthur Bertrand, Paris, 1832-1863 (Imprenta de Maulde y Renou), 302 pp.																
+Descriptive Name: Havana_1794																
+Other comments: Observations were conducted at 7h, 12h and 22h from January to May and for the rest of the year at 6h, 15h and 22h.																
+																
+YEAR	MONTH	T MAX ABS	T MIN ABS	T MAX	T MIN	T MEAN	 B MAX	B MIN	CLEAR	CLOUDY	OVERCAST	RAINFALL	N-E	E-S	S-W	W-N
+1794	1	22	15	19,3	18,1	18,7	759,96	751,19	7	15	7	2	36	26		
+1794	2	23	15	20,2	18,4	19,3	764,73	746,68	5	14	3	6	21	25	7	3
+1794	3	24	18	21,7	19,8	20,8	759,96	746,68	9	16		6	8	38	8	8
+1794	4	24	19	22,8	20,5	21,6	753,45	748,94	11	10	4	5	48	8		4
+1794	5	25	20	23,6	21,5	22,5	751,19	744,42	8	8	4	11	29	26		7
+1794	6	26	21	24,5	22,6	23,5	751,19	744,42	3	10	4	13	35	20	2	3
+1794	7	27	22	25,6	23,9	24,7	751,19	744,42	5	9	1	16	20	39	2	1
+1794	8	27	22	25,4	23,5	24,4	751,19	739,91	6	15		10	37	21	3	1
+1794	9	26	22	24,9	23,8	24,3	751,19	744,42	5	14		11	38	22		
+1794	10	25	19	23,4	22	22,7	751,19	744,42	2	16	4	9	37	21	2	2
+1794	11	25	19	22,4	20,9	21,7	759,96	744,42	8	9	3	10	19	38	3	
+1794	12	22	16	19,8	18,5	19,1	760,22	748,94	6	16	6	3	45	17		

@@ -1,0 +1,17 @@
+ID: PANPAN1	
+Country: Panama	
+City: Panama	
+Period: 1879-1882	
+Resolution: Annual	
+Observers: Unknown	
+Location Observatory: 8.95, -79.53 (sea level)	
+Meteorological variables: Precipitation (Column 3) (English inch)	
+Data source: Harrington M. W. 1900. Central America Rainfall. Bulletin of the Philosophical Society of Washington (1895-1899) 13: 1-30	
+Descriptive Name: PANAMA_1879_1882 	
+	
+YEAR	PRECIPITATION
+1879	84,7
+1880	66,3
+1881	70,5
+1882	45,6
+	

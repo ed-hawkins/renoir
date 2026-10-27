@@ -1,0 +1,59 @@
+ID: ARGGOY1		
+Country: Argentina		
+City: Goya		
+Period: winter 1876- spring 1887		
+Resolution: Seasonal		
+Observers: Luis Carton		
+Location Observatory: -29.15, -59.27 (64masl)		
+Meteorological variables: Mean temperature (Column 3) (Celsius).		
+Data source: Davis, Gualterio G. 1889. Ligeros apuntes sobre el clima de la República Argentina. Por el Director de la Oficina Meteorológica  Argentina.  Imprenta de Pablo E. Coni e Hijos Buenos Aires.		
+Descriptive Name:  GOYA_1876-1887T
+Other comments: mean of the observations at 7h, 14h and 21h.		
+		
+YEAR	SEASON	T MEAN
+1876	winter	16,38
+1876	spring	20,66
+1877	summer	27,45
+1877	autumn	22,23
+1877	winter	16,35
+1877	spring	21,23
+1878	summer	24,42
+1878	autumn	21,13
+1878	winter	14,29
+1878	spring	19,63
+1879	summer	23,78
+1879	autumn	19,4
+1879	winter	15,12
+1879	spring	19,71
+1880	summer	24,76
+1880	autumn	18,6
+1880	winter	15,49
+1880	spring	17,9
+1881	summer	24,54
+1881	autumn	19,54
+1881	winter	13,81
+1881	spring	20,47
+1882	summer	24,23
+1882	autumn	18,74
+1882	winter	14,03
+1882	spring	20,08
+1883	summer	24,58
+1883	autumn	18,97
+1883	winter	14,07
+1883	spring	19,77
+1884	summer	25,62
+1884	autumn	19,82
+1884	winter	14,97
+1884	spring	19,61
+1885	summer	24,53
+1885	autumn	18,69
+1885	winter	12,28
+1885	spring	20,74
+1886	summer	24,91
+1886	autumn	19,31
+1886	winter	13,11
+1886	spring	18,81
+1887	summer	23,81
+1887	autumn	17,83
+1887	winter	16,11
+1887	spring	18,38

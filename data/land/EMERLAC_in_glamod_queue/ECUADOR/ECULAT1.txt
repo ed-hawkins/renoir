@@ -1,0 +1,54 @@
+ID: ECULAT1				
+Country: Ecuador				
+City: Latacunga				
+Period: 1873-1874 (discontinuous)				
+Resolution: Daily				
+Observers: Alphons Stubel (1835-1904). He travel around Ecuador with Wilhelm Reiss, he was very interested in volcanoes (geology and topography) and make expeditions to study most of them. Stubel studied chemistry and mineralogy at Leipzig University. 				
+Location Observatory: -0.93, -78.62				
+Meteorological variables: Minimum and maximum temperature (Column 4, 5)				
+Data source:  Stubel A. 1897. Die Vulkanberge Von Ecuador geologish-topographisch aufgenomnen und beschrieben. Verlag Von A, Asher CO., Berlin.				
+Descriptive Name: LATACUNGA_1873_1874				
+				
+YEAR	MONTH	DAY	T MIN	T MAX
+1873	3	12	7,5	13,5
+1873	3	13	5,2	20,5
+1873	3	14	5,6	21
+1873	3	15	7	18,5
+1873	3	16	9,5	22,5
+1873	3	17	3	20,5
+1873	3	18	4	
+1873	3	19	6,1	19,8
+1873	3	20	8,7	16,5
+1873	3	21	5	18,5
+1873	3	22	9	
+1873	3	23	6,8	22
+1873	3	24	8	
+1873	3	25	8	
+1873	3	26	3	
+1873	4	6	8,2	
+1873	4	7	6	14
+1873	4	8	8,2	15,5
+1873	4	9	9	
+1873	4	12	5	
+1873	4	13	9,3	19,2
+1873	4	14	9,5	15,5
+1873	4	15	7,8	16,5
+1873	4	16	7,2	
+1873	4	17	9	
+1874	4	26	8	
+1874	4	27	8,8	
+1874	4	28	9	
+1874	4	29	8,8	
+1874	4	30	8,8	
+1874	5	1	8,7	
+1874	5	2	8,9	
+1874	5	3	9	
+1874	5	4	9	
+1874	5	5	8	
+1874	8	6	5,6	16,2
+1874	8	7	7	16
+1874	8	8	7,1	15,5
+1874	8	9	1,1	19
+1874	8	10	4,5	19
+1874	8	11	5,2	19,2
+1874	8	12		19

@@ -1,0 +1,18 @@
+ID: ARGBUA3											
+Country: Argentina											
+City: Buenos Aires											
+Period: 1817-1821											
+Resolution:  Annual											
+Observers: Bartolome Muñoz											
+Location Observatory: -34.61, -58.38 (2.75 masl) 											
+Meteorological variables: Maximum and Minimum temperature (Column 2, 4) (Fahrenheit); Date of the maximum and minimum temperatures (Column 3, 5); days of rainfall (Column 6),  copious rainfalls (Column 7), thunderstorms (Column 8), fog (Column 9), light snow (Column 10); hail (Column 11), dates of windstorms (Column 12).					
+Data source: Archivo Nacional de la Nación (Uruguay) Caja 195 “Escritos del Padre Dámaso Antonio Larrañaga”,  carpeta 12 “observaciones meteorológicas”.											
+Descriptive Name: BUENOS_AIRES_1817_1821 											
+Other comments: Two sandstorms the 22 February 1817 (the day get dark by 4 minutes) and the 31 January 1821 (the day get dark by 8 minutes).  Insect invasions were recorded at 25th and 27th October 1818; 20th January, 14th 21st March, 17th April 1819.											
+											
+YEAR	T MAX	DATE MAX T	T MIN	DATE MIN T	RAINFALL	COPIOUS RAINFALL	THUNDE	FOG	LIGHT SNOW	HAIL	WIND STORMS
+1817	83	20 February	28	10 July	31	29	28	2	3	7	8 August, 6 september
+1818	85	9 February	37	4 July	55	28	30	4	3	2	"7 and 30 January, 29 March, 27 September, 11 October; 6 december"
+1819	85	17 January	43	3 August	37	28	29	7	4	2	8, 13, 25, 31 January, 20 April, 25 October, 26 Decemebr
+1820	83	13 January	48	5, 10 July	34	22	36	9	7	4	26 January, 10 June, 20 August
+1821	85	21 February	51	20, 24 July	44	23	39	5	5	2	31 January, 12 february, 7 september

@@ -1,0 +1,48 @@
+ID: ARGBUA5				
+Country: Argentina					
+City: Buenos Aires				
+Period: 1822				
+Resolution: Monthly					
+Observers: Unknown					
+Location Observatory:  -34.61, -58.38																		
+Meteorological variables: Maximun, minimum and mean barometer (Column 3, 4, 5) (English inches); Maximum, minimum, mean temperature (Column 6, 7, 8) (Fahrenheit); Wet and dry days (observations of the hygrometer) (Column 9, 10); wind direction (days): quartile NE (Column 11), SE (Column 12), SW (Column 13), NW (Column 14); state of the sky: Clear (Column 15), Cloudy (Column 16), rainfall (Column 17), thunder and lightning (Column 18).																		
+Data source:  Nuñez I. 1825. Noticias Históricas, Politicas y Estadísticas de las provincias unidas del Rio de la Plata. R. Ackermann, Londres. 																		
+Descriptive Name: BUENOS_AIRES_1822																		
+Other comments:  the 22nd September hail, 13th October Hurricane.																		
+																		
+																		
+YEAR	MONTH	B MAX	B MIN	B MEAN	T MAX	T MIN	T MEAN	HUM D	DRY D	N-E	S-E	S-W	N-W	CLEAR	CLOUDY	RAINFALL	THUNDER AND LIGHTNING	
+1822	1				91	60	71,82			12	9	6	3	14	4	13	3	
+1822	2	30,04	29,21	29,58	89	58	73	19	9	12	3	5	8	16	4	8	0	
+1822	3	29,88	29,33	29,61	82	53	70,83	20	10	12	6	7	6	23	4	4	1	
+1822	4	29,8	29,46	29,73	78	43	62,04	22	8	7	4	11	8	24	4	5	0	
+1822	5	30,18	29,21	29,76	68	44	58,31	30	0	13	2	9	7	24	4	3	2	
+1822	6	30,05	29,23	29,77	66	40	54,32	30	0	14	2	9	5	16	11	3	3	
+1822	7	30,17	29,21	29,65	68	38	52,55	31	0	13	7	7	4	14	11	6	5	
+1822	8	30,21	29,51	29,84	66	36	51,83	31	0	18	6	4	3	16	13	2	0	
+1822	9	30,41	29,32	29,74	72	42	54,64	30	0	13	11	3	3	16	6	8	3	
+1822	10	30,13	29,24	29,67	81	6	58,91	30	1	17	5	4	5	15	8	8	3	
+1822	11	29,91	29,17	29,61	88	56	68,43	28	2	23	5	1	1	14	7	9	3	
+1822	12	30	29,15	29,45	86	62	70,91	23	8	16	6	6	3	15	4	12	5	
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		

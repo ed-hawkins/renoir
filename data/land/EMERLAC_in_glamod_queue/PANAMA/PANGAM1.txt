@@ -1,0 +1,17 @@
+ID: PANGAM	
+Country: Panama	
+City: Gamboa	
+Period: 1882-1886 (no data 1883)	
+Resolution: Annual	
+Observers: Unknown	
+Location Observatory: 9.12, -79.70 (102 English feet)	
+Meteorological variables: Precipitation (Column 3) (English inch)	
+Data source: Harrington M. W. 1900. Central America Rainfall. Bulletin of the Philosophical Society of Washington (1895-1899) 13: 1-30	
+Descriptive name: GAMBOA_1865_1886 	
+	
+YEAR	PRECIPIATTION
+1882	69
+1883	
+1884	90,6
+1885	97,6
+1886	103
